@@ -1,0 +1,5807 @@
+[
+  {
+    "id": "noun_1",
+    "en": "Ambipom",
+    "fr": "Capidextre"
+  },
+  {
+    "id": "noun_2",
+    "en": "Dartrix",
+    "fr": "Efflèche"
+  },
+  {
+    "id": "noun_3",
+    "en": "Malamar",
+    "fr": "Sepiatroce"
+  },
+  {
+    "id": "noun_4",
+    "en": "Bounsweet",
+    "fr": "Croquine"
+  },
+  {
+    "id": "noun_5",
+    "en": "Obelix",
+    "fr": "Obélix"
+  },
+  {
+    "id": "noun_6",
+    "en": "Fendmender",
+    "fr": "Réparkrass"
+  },
+  {
+    "id": "noun_7",
+    "en": "Dustbrawler",
+    "fr": "Balayur"
+  },
+  {
+    "id": "noun_8",
+    "en": "Klink",
+    "fr": "Tic"
+  },
+  {
+    "id": "noun_9",
+    "en": "Dimflight",
+    "fr": "Vigidente"
+  },
+  {
+    "id": "noun_10",
+    "en": "Cliff hanger",
+    "fr": "Au bord du gouffre"
+  },
+  {
+    "id": "noun_11",
+    "en": "Durant",
+    "fr": "Fermite"
+  },
+  {
+    "id": "noun_12",
+    "en": "dungbomb",
+    "fr": "bombabouse"
+  },
+  {
+    "id": "noun_13",
+    "en": "Seel",
+    "fr": "Otaria"
+  },
+  {
+    "id": "noun_14",
+    "en": "Crockadowndilly",
+    "fr": "Alligrasporcs"
+  },
+  {
+    "id": "noun_15",
+    "en": "Aurorus",
+    "fr": "Dragmara"
+  },
+  {
+    "id": "noun_16",
+    "en": "Medicham",
+    "fr": "Méditikka"
+  },
+  {
+    "id": "noun_17",
+    "en": "Fulliautomatix",
+    "fr": "Cétautomatix"
+  },
+  {
+    "id": "noun_18",
+    "en": "Heatmor",
+    "fr": "Aflamanoir"
+  },
+  {
+    "id": "noun_19",
+    "en": "Maggey Byrde",
+    "fr": "Maguy Loiseau"
+  },
+  {
+    "id": "noun_20",
+    "en": "Larvesta",
+    "fr": "Pyronille"
+  },
+  {
+    "id": "noun_21",
+    "en": "Omastar",
+    "fr": "Amonistar"
+  },
+  {
+    "id": "noun_22",
+    "en": "Morelull",
+    "fr": "Spododo"
+  },
+  {
+    "id": "noun_23",
+    "en": "Chandelure",
+    "fr": "Lugulabre"
+  },
+  {
+    "id": "noun_24",
+    "en": "Charjabug",
+    "fr": "Chrysapile"
+  },
+  {
+    "id": "noun_25",
+    "en": "Beheeyem",
+    "fr": "Neitram"
+  },
+  {
+    "id": "noun_26",
+    "en": "Vase-tly overpowered",
+    "fr": "Accident vase-culaire"
+  },
+  {
+    "id": "noun_27",
+    "en": "Gladgut",
+    "fr": "Ventreureu"
+  },
+  {
+    "id": "noun_28",
+    "en": "Frogadier",
+    "fr": "Croâporal"
+  },
+  {
+    "id": "noun_29",
+    "en": "Choleric",
+    "fr": "Coudetric"
+  },
+  {
+    "id": "noun_30",
+    "en": "pepper imp",
+    "fr": "Gnome au poivre"
+  },
+  {
+    "id": "noun_31",
+    "en": "Flaaffy",
+    "fr": "Lainergie"
+  },
+  {
+    "id": "noun_32",
+    "en": "Hushbogle",
+    "fr": "Calmeffroi"
+  },
+  {
+    "id": "noun_33",
+    "en": "Thermostatix",
+    "fr": "Pronostix"
+  },
+  {
+    "id": "noun_34",
+    "en": "Devolver",
+    "fr": "Devolver"
+  },
+  {
+    "id": "noun_35",
+    "en": "Jellicent",
+    "fr": "Moyade"
+  },
+  {
+    "id": "noun_36",
+    "en": "Hawlucha",
+    "fr": "Brutalibré"
+  },
+  {
+    "id": "noun_37",
+    "en": "Rock 'n' goal",
+    "fr": "D'une pierre, deux coups"
+  },
+  {
+    "id": "noun_38",
+    "en": "An ice idea",
+    "fr": "Une idée qui ne laisse pas de glace"
+  },
+  {
+    "id": "noun_39",
+    "en": "Machop",
+    "fr": "Machoc"
+  },
+  {
+    "id": "noun_40",
+    "en": "Escavalier",
+    "fr": "Lançargot"
+  },
+  {
+    "id": "noun_41",
+    "en": "Ruffrunner",
+    "fr": "Vifagile"
+  },
+  {
+    "id": "noun_42",
+    "en": "Mimikyu",
+    "fr": "Mimiqui"
+  },
+  {
+    "id": "noun_43",
+    "en": "Gundromeda Strain",
+    "fr": "Souche Gundromède"
+  },
+  {
+    "id": "noun_44",
+    "en": "Boneshedder",
+    "fr": "Métamorph-os"
+  },
+  {
+    "id": "noun_45",
+    "en": "Plunger",
+    "fr": "Morto-Piqueur"
+  },
+  {
+    "id": "noun_46",
+    "en": "Lil' Bomber",
+    "fr": "Bombergun"
+  },
+  {
+    "id": "noun_47",
+    "en": "Pansear",
+    "fr": "Flamajou"
+  },
+  {
+    "id": "noun_48",
+    "en": "Esoteric",
+    "fr": "Périféric"
+  },
+  {
+    "id": "noun_49",
+    "en": "Quilava",
+    "fr": "Feurisson"
+  },
+  {
+    "id": "noun_50",
+    "en": "Empoleon",
+    "fr": "Pingoléon"
+  },
+  {
+    "id": "noun_51",
+    "en": "Macaroon",
+    "fr": "Mac Oloch"
+  },
+  {
+    "id": "noun_52",
+    "en": "Fearow",
+    "fr": "Rapasdepic"
+  },
+  {
+    "id": "noun_53",
+    "en": "Monferno",
+    "fr": "Chimpenfeu"
+  },
+  {
+    "id": "noun_54",
+    "en": "Shieldon",
+    "fr": "Dinoclier"
+  },
+  {
+    "id": "noun_55",
+    "en": "Claydol",
+    "fr": "Kaorine"
+  },
+  {
+    "id": "noun_56",
+    "en": "Slurpuff",
+    "fr": "Cupcanaille"
+  },
+  {
+    "id": "noun_57",
+    "en": "Drizzile",
+    "fr": "Arrozard"
+  },
+  {
+    "id": "noun_58",
+    "en": "Twiddly diddly",
+    "fr": "Infinitésifaible"
+  },
+  {
+    "id": "noun_59",
+    "en": "Sableye",
+    "fr": "Ténéfix"
+  },
+  {
+    "id": "noun_60",
+    "en": "Bruxish",
+    "fr": "Denticrisse"
+  },
+  {
+    "id": "noun_61",
+    "en": "Crustacius",
+    "fr": "Gracchus Cétinconcensus"
+  },
+  {
+    "id": "noun_62",
+    "en": "Clauncher",
+    "fr": "Flingouste"
+  },
+  {
+    "id": "noun_63",
+    "en": "Crookshanks",
+    "fr": "Pattenrond"
+  },
+  {
+    "id": "noun_64",
+    "en": "Mudkip",
+    "fr": "Gobou"
+  },
+  {
+    "id": "noun_65",
+    "en": "Bookllet",
+    "fr": "Grimoire"
+  },
+  {
+    "id": "noun_66",
+    "en": "Dee Vasquez",
+    "fr": "Dee Vasquez"
+  },
+  {
+    "id": "noun_67",
+    "en": "Grimmauld Place",
+    "fr": "Square Grimmaurd"
+  },
+  {
+    "id": "noun_68",
+    "en": "Arcanine",
+    "fr": "Arcanin"
+  },
+  {
+    "id": "noun_69",
+    "en": "Sandile",
+    "fr": "Mascaïman"
+  },
+  {
+    "id": "noun_70",
+    "en": "Gothita",
+    "fr": "Scrutella"
+  },
+  {
+    "id": "noun_71",
+    "en": "Pangoro",
+    "fr": "Pandarbare"
+  },
+  {
+    "id": "noun_72",
+    "en": "Nihilego",
+    "fr": "Zéroïd"
+  },
+  {
+    "id": "noun_73",
+    "en": "Copsekeep",
+    "fr": "Gardebois"
+  },
+  {
+    "id": "noun_74",
+    "en": "Dewpider",
+    "fr": "Araqua"
+  },
+  {
+    "id": "noun_75",
+    "en": "Felix Platypus",
+    "fr": "Caius Aérobus"
+  },
+  {
+    "id": "noun_76",
+    "en": "screechsnap",
+    "fr": "cricasse"
+  },
+  {
+    "id": "noun_77",
+    "en": "Fibster",
+    "fr": "Bobardeur"
+  },
+  {
+    "id": "noun_78",
+    "en": "Will Powers",
+    "fr": "Gustavo Lonté"
+  },
+  {
+    "id": "noun_79",
+    "en": "Pikipek",
+    "fr": "Picassaut"
+  },
+  {
+    "id": "noun_80",
+    "en": "Flobberworm",
+    "fr": "Veracrasse"
+  },
+  {
+    "id": "noun_81",
+    "en": "Magcargo",
+    "fr": "Volcaropod"
+  },
+  {
+    "id": "noun_82",
+    "en": "Aparecium",
+    "fr": "aparecium"
+  },
+  {
+    "id": "noun_83",
+    "en": "Stonjourner",
+    "fr": "Dolman"
+  },
+  {
+    "id": "noun_84",
+    "en": "Hydreigon",
+    "fr": "Trioxhydre"
+  },
+  {
+    "id": "noun_85",
+    "en": "Mourning Star",
+    "fr": "Étoile du Malin"
+  },
+  {
+    "id": "noun_86",
+    "en": "Ivy University",
+    "fr": "Université Henri Baucout"
+  },
+  {
+    "id": "noun_87",
+    "en": "Bicarbonatofsoda",
+    "fr": "Boufiltre"
+  },
+  {
+    "id": "noun_88",
+    "en": "Snivy",
+    "fr": "Vipélierre"
+  },
+  {
+    "id": "noun_89",
+    "en": "Scrofulus",
+    "fr": "Biscornus"
+  },
+  {
+    "id": "noun_90",
+    "en": "Delibird",
+    "fr": "Cadoizo"
+  },
+  {
+    "id": "noun_91",
+    "en": "Magnumopus",
+    "fr": "Savancosinus"
+  },
+  {
+    "id": "noun_92",
+    "en": "Sendervictorius",
+    "fr": "Ziguépus"
+  },
+  {
+    "id": "noun_93",
+    "en": "Primeape",
+    "fr": "Colossinge"
+  },
+  {
+    "id": "noun_94",
+    "en": "Fibbing",
+    "fr": "Bobarder"
+  },
+  {
+    "id": "noun_95",
+    "en": "Weavile",
+    "fr": "Dimoret"
+  },
+  {
+    "id": "noun_96",
+    "en": "Coppertop",
+    "fr": "Dracuivre"
+  },
+  {
+    "id": "noun_97",
+    "en": "Super Meat Gun",
+    "fr": "Motarme de la Viandarmerie"
+  },
+  {
+    "id": "noun_98",
+    "en": "Boltund",
+    "fr": "Fulgudog"
+  },
+  {
+    "id": "noun_99",
+    "en": "Dreadnaw",
+    "fr": "Torgamord"
+  },
+  {
+    "id": "noun_100",
+    "en": "Cufant",
+    "fr": "Charibari"
+  },
+  {
+    "id": "noun_101",
+    "en": "acromantula",
+    "fr": "acromentule"
+  },
+  {
+    "id": "noun_102",
+    "en": "Hogwarts",
+    "fr": "Poudlard"
+  },
+  {
+    "id": "noun_103",
+    "en": "Dreepy",
+    "fr": "Fantyrm"
+  },
+  {
+    "id": "noun_104",
+    "en": "Palossand",
+    "fr": "Trépassable"
+  },
+  {
+    "id": "noun_105",
+    "en": "Flapple",
+    "fr": "Pomdrapi"
+  },
+  {
+    "id": "noun_106",
+    "en": "Amoonguss",
+    "fr": "Gaulet"
+  },
+  {
+    "id": "noun_107",
+    "en": "Fickelgruber",
+    "fr": "Fickelgruber"
+  },
+  {
+    "id": "noun_108",
+    "en": "Ekonomikrisis",
+    "fr": "Epidemaïs"
+  },
+  {
+    "id": "noun_109",
+    "en": "Carkol",
+    "fr": "Wagomine"
+  },
+  {
+    "id": "noun_110",
+    "en": "Dratini",
+    "fr": "Minidraco"
+  },
+  {
+    "id": "noun_111",
+    "en": "Breloom",
+    "fr": "Chapignon"
+  },
+  {
+    "id": "noun_112",
+    "en": "Metric",
+    "fr": "Téléféric"
+  },
+  {
+    "id": "noun_113",
+    "en": "Burple",
+    "fr": "Bourboul"
+  },
+  {
+    "id": "noun_114",
+    "en": "Huntail",
+    "fr": "Serpang"
+  },
+  {
+    "id": "noun_115",
+    "en": "revelio",
+    "fr": "revelio"
+  },
+  {
+    "id": "noun_116",
+    "en": "Relashio",
+    "fr": "Lashlabask"
+  },
+  {
+    "id": "noun_117",
+    "en": "Mrs Norris",
+    "fr": "Miss Teigne"
+  },
+  {
+    "id": "noun_118",
+    "en": "Boarcharger",
+    "fr": "Sanglibourre"
+  },
+  {
+    "id": "noun_119",
+    "en": "scrofungulus",
+    "fr": "Scrofulite"
+  },
+  {
+    "id": "noun_120",
+    "en": "pensieve",
+    "fr": "pensine"
+  },
+  {
+    "id": "noun_121",
+    "en": "Egg Blossom",
+    "fr": "Flori-oeuf"
+  },
+  {
+    "id": "noun_122",
+    "en": "Hushbogle",
+    "fr": "Calmeffroi "
+  },
+  {
+    "id": "noun_123",
+    "en": "Getafix",
+    "fr": "Panoramix"
+  },
+  {
+    "id": "noun_124",
+    "en": "Rampardos",
+    "fr": "Charkos"
+  },
+  {
+    "id": "noun_125",
+    "en": "Veruca Salt",
+    "fr": "Veruca Salt"
+  },
+  {
+    "id": "noun_126",
+    "en": "Spewpa",
+    "fr": "Pérégrain"
+  },
+  {
+    "id": "noun_127",
+    "en": "Adipus",
+    "fr": "Yenapus"
+  },
+  {
+    "id": "noun_128",
+    "en": "Polysyllabix",
+    "fr": "Petitélégrafix"
+  },
+  {
+    "id": "noun_129",
+    "en": "Toucannon",
+    "fr": "Bazoucan"
+  },
+  {
+    "id": "noun_130",
+    "en": "Panpour",
+    "fr": "Flotajou"
+  },
+  {
+    "id": "noun_131",
+    "en": "Gnawhelm",
+    "fr": "Masticask"
+  },
+  {
+    "id": "noun_132",
+    "en": "Fishfingus",
+    "fr": "Petilarus"
+  },
+  {
+    "id": "noun_133",
+    "en": "Finneon",
+    "fr": "Écayon"
+  },
+  {
+    "id": "noun_134",
+    "en": "Fizzy Lifting Drinks",
+    "fr": "Boissons gazeuses aérodynamiques"
+  },
+  {
+    "id": "noun_135",
+    "en": "Dewott",
+    "fr": "Mateloutre"
+  },
+  {
+    "id": "noun_136",
+    "en": "Skrelp",
+    "fr": "Venalgue"
+  },
+  {
+    "id": "noun_137",
+    "en": "Scabbers",
+    "fr": "Croûtard "
+  },
+  {
+    "id": "noun_138",
+    "en": "Frosmoth",
+    "fr": "Beldeneige"
+  },
+  {
+    "id": "noun_139",
+    "en": "Vaniluxe",
+    "fr": "Sorbouboul"
+  },
+  {
+    "id": "noun_140",
+    "en": "Cleffa",
+    "fr": "Mélo"
+  },
+  {
+    "id": "noun_141",
+    "en": "acid pop",
+    "fr": "suçacides"
+  },
+  {
+    "id": "noun_142",
+    "en": "Professor Sprout",
+    "fr": "Professeur Chourave"
+  },
+  {
+    "id": "noun_143",
+    "en": "Ignoramus",
+    "fr": "Absolumentexclus"
+  },
+  {
+    "id": "noun_144",
+    "en": "Joltalon",
+    "fr": "Serréclair"
+  },
+  {
+    "id": "noun_145",
+    "en": "Egg Biter",
+    "fr": "Crokoeuf"
+  },
+  {
+    "id": "noun_146",
+    "en": "Binacle",
+    "fr": "Opermine"
+  },
+  {
+    "id": "noun_147",
+    "en": "Weedle",
+    "fr": "Aspicot"
+  },
+  {
+    "id": "noun_148",
+    "en": "Pinsir",
+    "fr": "Scarabrute"
+  },
+  {
+    "id": "noun_149",
+    "en": "Audino",
+    "fr": "Nanméouïe"
+  },
+  {
+    "id": "noun_150",
+    "en": "Sealeo",
+    "fr": "Phogleur"
+  },
+  {
+    "id": "noun_151",
+    "en": "Grubbin",
+    "fr": "Larvibule"
+  },
+  {
+    "id": "noun_152",
+    "en": "Cody Hackins",
+    "fr": "Kévin Miron"
+  },
+  {
+    "id": "noun_153",
+    "en": "Mopey-Slick",
+    "fr": "Mord Bidik"
+  },
+  {
+    "id": "noun_154",
+    "en": "Sliggoo",
+    "fr": "Colimucus"
+  },
+  {
+    "id": "noun_155",
+    "en": "Chartooth",
+    "fr": "Calcicroc"
+  },
+  {
+    "id": "noun_156",
+    "en": "Arrokuda",
+    "fr": "Embrochet"
+  },
+  {
+    "id": "noun_157",
+    "en": "Slowking",
+    "fr": "Roigada"
+  },
+  {
+    "id": "noun_158",
+    "en": "Fuselier",
+    "fr": "Mèche Rebelle"
+  },
+  {
+    "id": "noun_159",
+    "en": "Lactus Bifidus",
+    "fr": "Lactus Bifidus"
+  },
+  {
+    "id": "noun_160",
+    "en": "Gulpin",
+    "fr": "Gloupti"
+  },
+  {
+    "id": "noun_161",
+    "en": "Colorcrunch",
+    "fr": "Croqmatisme"
+  },
+  {
+    "id": "noun_162",
+    "en": "Tunafix",
+    "fr": "Maître Panix"
+  },
+  {
+    "id": "noun_163",
+    "en": "Dawnstar",
+    "fr": "Aurétoile"
+  },
+  {
+    "id": "noun_164",
+    "en": "Felix Felicis",
+    "fr": "Felix Felicis"
+  },
+  {
+    "id": "noun_165",
+    "en": "Weezing",
+    "fr": "Smogogo"
+  },
+  {
+    "id": "noun_166",
+    "en": "Wingnut",
+    "fr": "Voldur"
+  },
+  {
+    "id": "noun_167",
+    "en": "Archaeopterix",
+    "fr": "Archéoptérix"
+  },
+  {
+    "id": "noun_168",
+    "en": "Espurr",
+    "fr": "Psystigri"
+  },
+  {
+    "id": "noun_169",
+    "en": "Xurkitree",
+    "fr": "Câblifère"
+  },
+  {
+    "id": "noun_170",
+    "en": "Glummy",
+    "fr": "Savourable"
+  },
+  {
+    "id": "noun_171",
+    "en": "Cinderace",
+    "fr": "Pyrobut"
+  },
+  {
+    "id": "noun_172",
+    "en": "blast-ended skrewt",
+    "fr": "scroutt à pétard"
+  },
+  {
+    "id": "noun_173",
+    "en": "Bravura",
+    "fr": "Maestria"
+  },
+  {
+    "id": "noun_174",
+    "en": "Eelektrik",
+    "fr": "Lampéroie"
+  },
+  {
+    "id": "noun_175",
+    "en": "Swalot",
+    "fr": "Avaltout"
+  },
+  {
+    "id": "noun_176",
+    "en": "Poppilio",
+    "fr": "Otaquin"
+  },
+  {
+    "id": "noun_177",
+    "en": "Hamfeist",
+    "fr": "Festimposteur"
+  },
+  {
+    "id": "noun_178",
+    "en": "Ikea",
+    "fr": "Vikéa"
+  },
+  {
+    "id": "noun_179",
+    "en": "Grape expectations",
+    "fr": "Qui eût cru que ce vin fût un bon cru ?\r"
+  },
+  {
+    "id": "noun_180",
+    "en": "Kricketune",
+    "fr": "Mélokrik"
+  },
+  {
+    "id": "noun_181",
+    "en": "floo powder",
+    "fr": "poudre de cheminette"
+  },
+  {
+    "id": "noun_182",
+    "en": "Ini Miney",
+    "fr": "Inès Sperey"
+  },
+  {
+    "id": "noun_183",
+    "en": "Pineco",
+    "fr": "Pomdepik"
+  },
+  {
+    "id": "noun_184",
+    "en": "Meowstic",
+    "fr": "Mistigrix"
+  },
+  {
+    "id": "noun_185",
+    "en": "arresto momentum",
+    "fr": "Arresto Momentum"
+  },
+  {
+    "id": "noun_186",
+    "en": "Trashcannon",
+    "fr": "Tire Sélectif"
+  },
+  {
+    "id": "noun_187",
+    "en": "Dubwool",
+    "fr": "Moumouflon"
+  },
+  {
+    "id": "noun_188",
+    "en": "Swinub",
+    "fr": "Marcacrin"
+  },
+  {
+    "id": "noun_189",
+    "en": "Shinx",
+    "fr": "Lixy"
+  },
+  {
+    "id": "noun_190",
+    "en": "fizzing whizbee",
+    "fr": "Fizwizbiz"
+  },
+  {
+    "id": "noun_191",
+    "en": "Elvis Preslix",
+    "fr": "Elvis Preslix"
+  },
+  {
+    "id": "noun_192",
+    "en": "Galesplitter",
+    "fr": "Brisevent"
+  },
+  {
+    "id": "noun_193",
+    "en": "Gunjurer",
+    "fr": "Enchantueur"
+  },
+  {
+    "id": "noun_194",
+    "en": "Artifis",
+    "fr": "Amonbofis"
+  },
+  {
+    "id": "noun_195",
+    "en": "Snorunt",
+    "fr": "Stalgamin"
+  },
+  {
+    "id": "noun_196",
+    "en": "portkey",
+    "fr": "portoloin"
+  },
+  {
+    "id": "noun_197",
+    "en": "Tartaric",
+    "fr": "Théoric"
+  },
+  {
+    "id": "noun_198",
+    "en": "Parceltongue",
+    "fr": "fourchelang"
+  },
+  {
+    "id": "noun_199",
+    "en": "Grim Hornettle",
+    "fr": "Ortinistre"
+  },
+  {
+    "id": "noun_200",
+    "en": "Grimmel the Grisly",
+    "fr": "Grimmel Le Grave"
+  },
+  {
+    "id": "noun_201",
+    "en": "Swizzfiggling ",
+    "fr": "Fanfaronner des sornettes"
+  },
+  {
+    "id": "noun_202",
+    "en": "Metagross",
+    "fr": "Métalosse"
+  },
+  {
+    "id": "noun_203",
+    "en": "Hippodumplings",
+    "fr": "Hippogrossesdames"
+  },
+  {
+    "id": "noun_204",
+    "en": "Larvitar",
+    "fr": "Embrylex"
+  },
+  {
+    "id": "noun_205",
+    "en": "No… It's impossachievable…",
+    "fr": "Non... C'est impovisageable..."
+  },
+  {
+    "id": "noun_206",
+    "en": "Purugly",
+    "fr": "Chaffreux"
+  },
+  {
+    "id": "noun_207",
+    "en": "Illumise",
+    "fr": "Lumivole"
+  },
+  {
+    "id": "noun_208",
+    "en": "Minior",
+    "fr": "Météno "
+  },
+  {
+    "id": "noun_209",
+    "en": "Piloswine",
+    "fr": "Cochignon"
+  },
+  {
+    "id": "noun_210",
+    "en": "After a fashion",
+    "fr": "La mode se porte plutôt mal"
+  },
+  {
+    "id": "noun_211",
+    "en": "Grookey",
+    "fr": "Ouistempo"
+  },
+  {
+    "id": "noun_212",
+    "en": "Deepfreeze",
+    "fr": "Grogel"
+  },
+  {
+    "id": "noun_213",
+    "en": "Glazier",
+    "fr": "Souffleglace\r"
+  },
+  {
+    "id": "noun_214",
+    "en": "Fletching",
+    "fr": "Passerouge"
+  },
+  {
+    "id": "noun_215",
+    "en": "Lake Skater",
+    "fr": "Deaudouss"
+  },
+  {
+    "id": "noun_216",
+    "en": "Silicobra",
+    "fr": "Dunaja"
+  },
+  {
+    "id": "noun_217",
+    "en": "Grovyle",
+    "fr": "Massko"
+  },
+  {
+    "id": "noun_218",
+    "en": "Crobat",
+    "fr": "Nostenfer"
+  },
+  {
+    "id": "noun_219",
+    "en": "Marcus Ubiquitus",
+    "fr": "Marcus Cubitus"
+  },
+  {
+    "id": "noun_220",
+    "en": "Herdier",
+    "fr": "Ponchien"
+  },
+  {
+    "id": "noun_221",
+    "en": "Ledian",
+    "fr": "Coxyclaque"
+  },
+  {
+    "id": "noun_222",
+    "en": "Slitherwing Island",
+    "fr": "Île des Serpentailes"
+  },
+  {
+    "id": "noun_223",
+    "en": "Conkeldurr",
+    "fr": "Bétochef"
+  },
+  {
+    "id": "noun_224",
+    "en": "Obstagoon",
+    "fr": "Ixon"
+  },
+  {
+    "id": "noun_225",
+    "en": "Prickleboggle",
+    "fr": "Piqueffroi "
+  },
+  {
+    "id": "noun_226",
+    "en": "Clobbopus",
+    "fr": "Poulpaf"
+  },
+  {
+    "id": "noun_227",
+    "en": "Gurdurr",
+    "fr": "Ouvrifier"
+  },
+  {
+    "id": "noun_228",
+    "en": "Bulbasaur",
+    "fr": "Bulbizarre"
+  },
+  {
+    "id": "noun_229",
+    "en": "Firsthaf",
+    "fr": "Dactilograf"
+  },
+  {
+    "id": "noun_230",
+    "en": "Sunflora",
+    "fr": "Héliatronc"
+  },
+  {
+    "id": "noun_231",
+    "en": "AKEY-47",
+    "fr": "AKLÉ-47"
+  },
+  {
+    "id": "noun_232",
+    "en": "Thwackey",
+    "fr": "Badabouin"
+  },
+  {
+    "id": "noun_233",
+    "en": "Melonquarry",
+    "fr": "Attrape-melon"
+  },
+  {
+    "id": "noun_234",
+    "en": "Poochyena",
+    "fr": "Medhyèna"
+  },
+  {
+    "id": "noun_235",
+    "en": "Vitalstatistix",
+    "fr": "Abraracourcix"
+  },
+  {
+    "id": "noun_236",
+    "en": "Jewelbilant",
+    "fr": "Joyause"
+  },
+  {
+    "id": "noun_237",
+    "en": "Sewaddle",
+    "fr": "Larveyette"
+  },
+  {
+    "id": "noun_238",
+    "en": "Skele-Gro",
+    "fr": "poussos"
+  },
+  {
+    "id": "noun_239",
+    "en": "Budbite",
+    "fr": "Morsuredami"
+  },
+  {
+    "id": "noun_240",
+    "en": "Helioptile",
+    "fr": "Galvaran"
+  },
+  {
+    "id": "noun_241",
+    "en": "Stufful",
+    "fr": "Nounourson"
+  },
+  {
+    "id": "noun_242",
+    "en": "Zebstrika",
+    "fr": "Zéblitz"
+  },
+  {
+    "id": "noun_243",
+    "en": "Jestbelter",
+    "fr": "Mélopitre"
+  },
+  {
+    "id": "noun_244",
+    "en": "Drilbur",
+    "fr": "Rototaupe"
+  },
+  {
+    "id": "noun_245",
+    "en": "Hurribane",
+    "fr": "Tempeste"
+  },
+  {
+    "id": "noun_246",
+    "en": "Lotta Hart",
+    "fr": "Eva Cozésouci"
+  },
+  {
+    "id": "noun_247",
+    "en": "Umbreon",
+    "fr": "Noctali"
+  },
+  {
+    "id": "noun_248",
+    "en": "Unscrupulus",
+    "fr": "Radius"
+  },
+  {
+    "id": "noun_249",
+    "en": "Dunsparce",
+    "fr": "Insolourdo"
+  },
+  {
+    "id": "noun_250",
+    "en": "Krustler",
+    "fr": "Catchcroute"
+  },
+  {
+    "id": "noun_251",
+    "en": "Wizbang",
+    "fr": "Magibang"
+  },
+  {
+    "id": "noun_252",
+    "en": "Glummy",
+    "fr": "Miamifique"
+  },
+  {
+    "id": "noun_253",
+    "en": "Scarlatina",
+    "fr": "Galantine"
+  },
+  {
+    "id": "noun_254",
+    "en": "Duskgust",
+    "fr": "Crépusouffle"
+  },
+  {
+    "id": "noun_255",
+    "en": "Unmistakably Beefeater",
+    "fr": "Le plus « in » des gins"
+  },
+  {
+    "id": "noun_256",
+    "en": "Kilnkin",
+    "fr": "Lézardent"
+  },
+  {
+    "id": "noun_257",
+    "en": "petrificus totalus",
+    "fr": "petrificus totalus"
+  },
+  {
+    "id": "noun_258",
+    "en": "Aerodactyl",
+    "fr": "Ptéra"
+  },
+  {
+    "id": "noun_259",
+    "en": "Pidgeot",
+    "fr": "Roucarnage"
+  },
+  {
+    "id": "noun_260",
+    "en": "Gobstinker",
+    "fr": "Rétrotempête"
+  },
+  {
+    "id": "noun_261",
+    "en": "Noxius Vapus",
+    "fr": "Tullius Fanfrelus"
+  },
+  {
+    "id": "noun_262",
+    "en": "It inhales",
+    "fr": "L’aspirant champion !"
+  },
+  {
+    "id": "noun_263",
+    "en": "Bouffalant",
+    "fr": "Frison"
+  },
+  {
+    "id": "noun_264",
+    "en": "Cawmour",
+    "fr": "Pyrovolant"
+  },
+  {
+    "id": "noun_265",
+    "en": "Scyther",
+    "fr": "Insécateur"
+  },
+  {
+    "id": "noun_266",
+    "en": "Charsoul",
+    "fr": "Calcinâme"
+  },
+  {
+    "id": "noun_267",
+    "en": "Frostfang",
+    "fr": "Givregriffe"
+  },
+  {
+    "id": "noun_268",
+    "en": "Griphook",
+    "fr": "Gripsec"
+  },
+  {
+    "id": "noun_269",
+    "en": "Naganadel",
+    "fr": "Mandrillon"
+  },
+  {
+    "id": "noun_270",
+    "en": "Madam Hooch",
+    "fr": "Madame Bibine"
+  },
+  {
+    "id": "noun_271",
+    "en": "Thunderpede",
+    "fr": "Piédetonnerre"
+  },
+  {
+    "id": "noun_272",
+    "en": "Wormadam",
+    "fr": "Cheniselle"
+  },
+  {
+    "id": "noun_273",
+    "en": "Hobgobbler",
+    "fr": "Globegobeur "
+  },
+  {
+    "id": "noun_274",
+    "en": "Borgin",
+    "fr": "Barjow"
+  },
+  {
+    "id": "noun_275",
+    "en": "Combusken",
+    "fr": "Galifeu"
+  },
+  {
+    "id": "noun_276",
+    "en": "Gengar",
+    "fr": "Ectoplasma"
+  },
+  {
+    "id": "noun_277",
+    "en": "Nodepositon el Sodasiphon",
+    "fr": "Lachélechampignon y Causon"
+  },
+  {
+    "id": "noun_278",
+    "en": "Coaldron",
+    "fr": "Flamarmite"
+  },
+  {
+    "id": "noun_279",
+    "en": "Swadloon",
+    "fr": "Couverdure"
+  },
+  {
+    "id": "noun_280",
+    "en": "Mobilicorpus",
+    "fr": "Mobilicorpus"
+  },
+  {
+    "id": "noun_281",
+    "en": "What a champ",
+    "fr": "Quel champion"
+  },
+  {
+    "id": "noun_282",
+    "en": "The Manhugger",
+    "fr": "L'étouffe-chrétien"
+  },
+  {
+    "id": "noun_283",
+    "en": "Wonkavision studio",
+    "fr": "La salle au chocolat télévisé"
+  },
+  {
+    "id": "noun_284",
+    "en": "Histrionix",
+    "fr": "Comix"
+  },
+  {
+    "id": "noun_285",
+    "en": "fanged frisbee",
+    "fr": "frisbee à dents de serpent"
+  },
+  {
+    "id": "noun_286",
+    "en": "Deino",
+    "fr": "Solochi"
+  },
+  {
+    "id": "noun_287",
+    "en": "Shuppet",
+    "fr": "Polichombr"
+  },
+  {
+    "id": "noun_288",
+    "en": "fever fudge",
+    "fr": "berlingot de fièvre"
+  },
+  {
+    "id": "noun_289",
+    "en": "Rockruff",
+    "fr": "Rocabot"
+  },
+  {
+    "id": "noun_290",
+    "en": "Noibat",
+    "fr": "Sonistrelle"
+  },
+  {
+    "id": "noun_291",
+    "en": "Steenee",
+    "fr": "Candine"
+  },
+  {
+    "id": "noun_292",
+    "en": "Wobbuffet",
+    "fr": "Qulbutoké"
+  },
+  {
+    "id": "noun_293",
+    "en": "Raboot",
+    "fr": "Lapyro"
+  },
+  {
+    "id": "noun_294",
+    "en": "Godric Gryffindor",
+    "fr": "Godric Gryffondor"
+  },
+  {
+    "id": "noun_295",
+    "en": "Krookodile",
+    "fr": "Crocorible"
+  },
+  {
+    "id": "noun_296",
+    "en": "Bonestormer",
+    "fr": "Tempêtos"
+  },
+  {
+    "id": "noun_297",
+    "en": "Staryu",
+    "fr": "Stari"
+  },
+  {
+    "id": "noun_298",
+    "en": "Thunderbottom",
+    "fr": "Dertonnerre "
+  },
+  {
+    "id": "noun_299",
+    "en": "Cassius Ceramix",
+    "fr": "Aplusbegalix"
+  },
+  {
+    "id": "noun_300",
+    "en": "The Gizzardgulper",
+    "fr": "Le gobeur de gésiers"
+  },
+  {
+    "id": "noun_301",
+    "en": "Nebulus Nimbus",
+    "fr": "Langélus"
+  },
+  {
+    "id": "noun_302",
+    "en": "(C)ouch",
+    "fr": "Sofa...ïe"
+  },
+  {
+    "id": "noun_303",
+    "en": "Jynx",
+    "fr": "Lippoutou"
+  },
+  {
+    "id": "noun_304",
+    "en": "Salazar Slytherin",
+    "fr": "Salazar Serpentard"
+  },
+  {
+    "id": "noun_305",
+    "en": "Grim Slipsmolder",
+    "fr": "Moisiglisse Sombre"
+  },
+  {
+    "id": "noun_306",
+    "en": "Froakie",
+    "fr": "Grenousse"
+  },
+  {
+    "id": "noun_307",
+    "en": "Simipour",
+    "fr": "Flotoutan"
+  },
+  {
+    "id": "noun_308",
+    "en": "Mandibuzz",
+    "fr": "Vaututrice"
+  },
+  {
+    "id": "noun_309",
+    "en": "Compendium",
+    "fr": "Petibonum"
+  },
+  {
+    "id": "noun_310",
+    "en": "Bacteria",
+    "fr": "Iélosubmarine"
+  },
+  {
+    "id": "noun_311",
+    "en": "Tyrunt",
+    "fr": "Ptyranidur"
+  },
+  {
+    "id": "noun_312",
+    "en": "gobstone",
+    "fr": "bavboule"
+  },
+  {
+    "id": "noun_313",
+    "en": "gurdyroot",
+    "fr": "ravegourde"
+  },
+  {
+    "id": "noun_314",
+    "en": "Buizel",
+    "fr": "Mustébouée"
+  },
+  {
+    "id": "noun_315",
+    "en": "Drakloak",
+    "fr": "Dispareptil"
+  },
+  {
+    "id": "noun_316",
+    "en": "Beautifly",
+    "fr": "Charmillon"
+  },
+  {
+    "id": "noun_317",
+    "en": "Carnivine",
+    "fr": "Vortente"
+  },
+  {
+    "id": "noun_318",
+    "en": "Lashbane",
+    "fr": "Skelettaile"
+  },
+  {
+    "id": "noun_319",
+    "en": "Trumpquake ",
+    "fr": "Trumplement de terre\r"
+  },
+  {
+    "id": "noun_320",
+    "en": "Cofagrigus",
+    "fr": "Tutankafer"
+  },
+  {
+    "id": "noun_321",
+    "en": "Deathgripper",
+    "fr": "Agrippemort"
+  },
+  {
+    "id": "noun_322",
+    "en": "Covecharger",
+    "fr": "Élecrique"
+  },
+  {
+    "id": "noun_323",
+    "en": "Chiddlers",
+    "fr": "Écoulier"
+  },
+  {
+    "id": "noun_324",
+    "en": "Gyarados",
+    "fr": "Léviator"
+  },
+  {
+    "id": "noun_325",
+    "en": "Deafening Dawnbrawler",
+    "fr": "Rixhaube assourdissante"
+  },
+  {
+    "id": "noun_326",
+    "en": "Penelope Clearwater",
+    "fr": "Pénélope Deauclaire"
+  },
+  {
+    "id": "noun_327",
+    "en": "Polytechnix",
+    "fr": "Elèvedelix"
+  },
+  {
+    "id": "noun_328",
+    "en": "Thundurus",
+    "fr": "Fulguris"
+  },
+  {
+    "id": "noun_329",
+    "en": "Romanian Longhorn",
+    "fr": "Cornelongue roumain"
+  },
+  {
+    "id": "noun_330",
+    "en": "Wormtail",
+    "fr": "Queudver"
+  },
+  {
+    "id": "noun_331",
+    "en": "Bludgeon Knapper",
+    "fr": "Volcoups"
+  },
+  {
+    "id": "noun_332",
+    "en": "Voltbeat",
+    "fr": "Muciole"
+  },
+  {
+    "id": "noun_333",
+    "en": "Geodude",
+    "fr": "Racaillou"
+  },
+  {
+    "id": "noun_334",
+    "en": "Snom",
+    "fr": "Frissonille"
+  },
+  {
+    "id": "noun_335",
+    "en": "Fool's-Gold",
+    "fr": "Ordéfou"
+  },
+  {
+    "id": "noun_336",
+    "en": "Reparifarge",
+    "fr": "Réparifagex\r\n"
+  },
+  {
+    "id": "noun_337",
+    "en": "Mawdrill",
+    "fr": "Creusecroc"
+  },
+  {
+    "id": "noun_338",
+    "en": "Venonat",
+    "fr": "Mimitoss"
+  },
+  {
+    "id": "noun_339",
+    "en": "Orthopaedix",
+    "fr": "Orthopédix"
+  },
+  {
+    "id": "noun_340",
+    "en": "Goodra",
+    "fr": "Muplodocus"
+  },
+  {
+    "id": "noun_341",
+    "en": "Ludo Bagman",
+    "fr": "Ludo Verpey"
+  },
+  {
+    "id": "noun_342",
+    "en": "Ucky-mucky",
+    "fr": "Hachis-charpie"
+  },
+  {
+    "id": "noun_343",
+    "en": "Death Eaters",
+    "fr": "Mangemorts"
+  },
+  {
+    "id": "noun_344",
+    "en": "Rhydon",
+    "fr": "Rhinoféros"
+  },
+  {
+    "id": "noun_345",
+    "en": "Nincada",
+    "fr": "Ningale"
+  },
+  {
+    "id": "noun_346",
+    "en": "Froslass",
+    "fr": "Momartik"
+  },
+  {
+    "id": "noun_347",
+    "en": "Blissey",
+    "fr": "Leuphorie"
+  },
+  {
+    "id": "noun_348",
+    "en": "Port in 1",
+    "fr": "Un 1-port-un"
+  },
+  {
+    "id": "noun_349",
+    "en": "Trapinch",
+    "fr": "Kraknoix"
+  },
+  {
+    "id": "noun_350",
+    "en": "Shelly De Killer",
+    "fr": "Bernick De Killer"
+  },
+  {
+    "id": "noun_351",
+    "en": "Raticate",
+    "fr": "Rattatac"
+  },
+  {
+    "id": "noun_352",
+    "en": "Geriatrix",
+    "fr": "Agecanonix"
+  },
+  {
+    "id": "noun_353",
+    "en": "Poisonus Fungus",
+    "fr": "Encorutilfaluquejelesus"
+  },
+  {
+    "id": "noun_354",
+    "en": "Grim Gamper",
+    "fr": "Intempériaile"
+  },
+  {
+    "id": "noun_355",
+    "en": "Cadaverus",
+    "fr": "Faitexcus"
+  },
+  {
+    "id": "noun_356",
+    "en": "Rookidee",
+    "fr": "Minisange"
+  },
+  {
+    "id": "noun_357",
+    "en": "Golem",
+    "fr": "Grolem"
+  },
+  {
+    "id": "noun_358",
+    "en": "Unhygienix",
+    "fr": "Ordralfabétix"
+  },
+  {
+    "id": "noun_359",
+    "en": "Mudgut",
+    "fr": "Brouteboue"
+  },
+  {
+    "id": "noun_360",
+    "en": "Fang",
+    "fr": "Crockdur"
+  },
+  {
+    "id": "noun_361",
+    "en": "Baltix",
+    "fr": "Harenbaltix"
+  },
+  {
+    "id": "noun_362",
+    "en": "Money the Monkey",
+    "fr": "Money le singe"
+  },
+  {
+    "id": "noun_363",
+    "en": "April May",
+    "fr": "Masha Vril"
+  },
+  {
+    "id": "noun_364",
+    "en": "It figures",
+    "fr": "Tout compte fait"
+  },
+  {
+    "id": "noun_365",
+    "en": "Apidistra",
+    "fr": "Rosaépine"
+  },
+  {
+    "id": "noun_366",
+    "en": "Eggfang",
+    "fr": "Amoureoeuf"
+  },
+  {
+    "id": "noun_367",
+    "en": "Meowth",
+    "fr": "Miaouss"
+  },
+  {
+    "id": "noun_368",
+    "en": "pepper-up",
+    "fr": "pimentine"
+  },
+  {
+    "id": "noun_369",
+    "en": "Valueaddedtax",
+    "fr": "Septantesix"
+  },
+  {
+    "id": "noun_370",
+    "en": "Ivysaur",
+    "fr": "Herbizarre"
+  },
+  {
+    "id": "noun_371",
+    "en": "Winston Payne",
+    "fr": "Victor Boulay "
+  },
+  {
+    "id": "noun_372",
+    "en": "The Childchewer",
+    "fr": "Le mâcheur d'enfant"
+  },
+  {
+    "id": "noun_373",
+    "en": "Seaography",
+    "fr": "Mérographie"
+  },
+  {
+    "id": "noun_374",
+    "en": "Sawk",
+    "fr": "Karaclée"
+  },
+  {
+    "id": "noun_375",
+    "en": "Spotty Powder",
+    "fr": "Poudre à boutons"
+  },
+  {
+    "id": "noun_376",
+    "en": "Ariados",
+    "fr": "Migalos"
+  },
+  {
+    "id": "noun_377",
+    "en": "Gunsinger",
+    "fr": "Cloportuniste"
+  },
+  {
+    "id": "noun_378",
+    "en": "Whosmoralsarelastix",
+    "fr": "Moralélastix"
+  },
+  {
+    "id": "noun_379",
+    "en": "Buffalord",
+    "fr": "Aristoro"
+  },
+  {
+    "id": "noun_380",
+    "en": "Tazie",
+    "fr": "Taiseur"
+  },
+  {
+    "id": "noun_381",
+    "en": "unspeakable",
+    "fr": "Langue-de-plomb"
+  },
+  {
+    "id": "noun_382",
+    "en": "Golduck",
+    "fr": "Akwakwak"
+  },
+  {
+    "id": "noun_383",
+    "en": "Machoke",
+    "fr": "Machopeur"
+  },
+  {
+    "id": "noun_384",
+    "en": "Unicorn Horn",
+    "fr": "Corne de Licorne"
+  },
+  {
+    "id": "noun_385",
+    "en": "Necronomodon",
+    "fr": "Necronomicroc"
+  },
+  {
+    "id": "noun_386",
+    "en": "Wingardium Leviosa",
+    "fr": "wingardium leviosa"
+  },
+  {
+    "id": "noun_387",
+    "en": "Golurk",
+    "fr": "Golemastoc"
+  },
+  {
+    "id": "noun_388",
+    "en": "Seismitoad",
+    "fr": "Crapustule"
+  },
+  {
+    "id": "noun_389",
+    "en": "Jack Hammer",
+    "fr": "Jacques Hammer"
+  },
+  {
+    "id": "noun_390",
+    "en": "Shroomish",
+    "fr": "Balignon"
+  },
+  {
+    "id": "noun_391",
+    "en": "Skwovet",
+    "fr": "Rongourmand"
+  },
+  {
+    "id": "noun_392",
+    "en": "Codfix",
+    "fr": "Acidenitrix"
+  },
+  {
+    "id": "noun_393",
+    "en": "Gatling Gull",
+    "fr": "Canardeur"
+  },
+  {
+    "id": "noun_394",
+    "en": "Orinjade",
+    "fr": "Rahãzade"
+  },
+  {
+    "id": "noun_395",
+    "en": "Dusknoir",
+    "fr": "Noctunoir"
+  },
+  {
+    "id": "noun_396",
+    "en": "fainting fancies",
+    "fr": "petit-fours tourndeloeil"
+  },
+  {
+    "id": "noun_397",
+    "en": "Windgnasher",
+    "fr": "Grognevent"
+  },
+  {
+    "id": "noun_398",
+    "en": "Satiric",
+    "fr": "Satiric"
+  },
+  {
+    "id": "noun_399",
+    "en": "Probopass",
+    "fr": "Tarinorme"
+  },
+  {
+    "id": "noun_400",
+    "en": "Scrumdiddlyumptious",
+    "fr": "Savouricieux"
+  },
+  {
+    "id": "noun_401",
+    "en": "Gorebyss",
+    "fr": "Rosabyss"
+  },
+  {
+    "id": "noun_402",
+    "en": "Turtwig",
+    "fr": "Tortipouss"
+  },
+  {
+    "id": "noun_403",
+    "en": "Frank Sahwit ",
+    "fr": "Frank Khavu"
+  },
+  {
+    "id": "noun_404",
+    "en": "Litwick",
+    "fr": "Funécire"
+  },
+  {
+    "id": "noun_405",
+    "en": "Psyduck",
+    "fr": "Psykokwak"
+  },
+  {
+    "id": "noun_406",
+    "en": "Tadsilweny",
+    "fr": "Tadsylwine"
+  },
+  {
+    "id": "noun_407",
+    "en": "Peruvian Vipertooth",
+    "fr": "Dent-de-vipère du Pérou"
+  },
+  {
+    "id": "noun_408",
+    "en": "Knockturn Alley",
+    "fr": "Allée des Embrumes"
+  },
+  {
+    "id": "noun_409",
+    "en": "Cursola",
+    "fr": "Corayôme"
+  },
+  {
+    "id": "noun_410",
+    "en": "Reuniclus",
+    "fr": "Symbios"
+  },
+  {
+    "id": "noun_411",
+    "en": "Shellder",
+    "fr": "Kokiyas"
+  },
+  {
+    "id": "noun_412",
+    "en": "Dhelmise",
+    "fr": "Sinistrail"
+  },
+  {
+    "id": "noun_413",
+    "en": "Torchic",
+    "fr": "Poussifeu"
+  },
+  {
+    "id": "noun_414",
+    "en": "Salandit",
+    "fr": "Tritox"
+  },
+  {
+    "id": "noun_415",
+    "en": "Tangrowth",
+    "fr": "Bouldeneu"
+  },
+  {
+    "id": "noun_416",
+    "en": "Argus Filch",
+    "fr": "Argus Rusard"
+  },
+  {
+    "id": "noun_417",
+    "en": "Kidsnatch",
+    "fr": "Kidnatrappé"
+  },
+  {
+    "id": "noun_418",
+    "en": "Howdoo",
+    "fr": "Pourkoipàh"
+  },
+  {
+    "id": "noun_419",
+    "en": "Skuntank",
+    "fr": "Moufflair"
+  },
+  {
+    "id": "noun_420",
+    "en": "Goomy",
+    "fr": "Mucuscule"
+  },
+  {
+    "id": "noun_421",
+    "en": "Magnemite",
+    "fr": "Magnéti"
+  },
+  {
+    "id": "noun_422",
+    "en": "Officer Meekins",
+    "fr": "Agent Ballaud"
+  },
+  {
+    "id": "noun_423",
+    "en": "Broderick Bode",
+    "fr": "Broderick Moroz"
+  },
+  {
+    "id": "noun_424",
+    "en": "Cranidos",
+    "fr": "Kranidos"
+  },
+  {
+    "id": "noun_425",
+    "en": "Lil' Bomber",
+    "fr": "Bombardine"
+  },
+  {
+    "id": "noun_426",
+    "en": "Talonflame",
+    "fr": "Flambusard"
+  },
+  {
+    "id": "noun_427",
+    "en": "Stinger",
+    "fr": "Stinger"
+  },
+  {
+    "id": "noun_428",
+    "en": "Mega Douser",
+    "fr": "Megarroseur"
+  },
+  {
+    "id": "noun_429",
+    "en": "Squib",
+    "fr": "Cracmol-lle"
+  },
+  {
+    "id": "noun_430",
+    "en": "Nearly Headless Nick",
+    "fr": "Nick Quasi-Sans-Tête"
+  },
+  {
+    "id": "noun_431",
+    "en": "Muk",
+    "fr": "Grotadmorv"
+  },
+  {
+    "id": "noun_432",
+    "en": "Wishiwashi",
+    "fr": "Froussardine"
+  },
+  {
+    "id": "noun_433",
+    "en": "Bombwelter",
+    "fr": "Roulebombe"
+  },
+  {
+    "id": "noun_434",
+    "en": "Bergmite",
+    "fr": "Grelaçon"
+  },
+  {
+    "id": "noun_435",
+    "en": "Feebas",
+    "fr": "Barpau"
+  },
+  {
+    "id": "noun_436",
+    "en": "Bellsprout",
+    "fr": "Chétiflor"
+  },
+  {
+    "id": "noun_437",
+    "en": "Operatix",
+    "fr": "Boulimix"
+  },
+  {
+    "id": "noun_438",
+    "en": "Charizard",
+    "fr": "Dracaufeu"
+  },
+  {
+    "id": "noun_439",
+    "en": "Prodnose",
+    "fr": "Prodnose"
+  },
+  {
+    "id": "noun_440",
+    "en": "Chillblade",
+    "fr": "Froilame"
+  },
+  {
+    "id": "noun_441",
+    "en": "bludger",
+    "fr": "cognard"
+  },
+  {
+    "id": "noun_442",
+    "en": "Moaning Myrtle",
+    "fr": "Mimi Geignarde"
+  },
+  {
+    "id": "noun_443",
+    "en": "Swellow",
+    "fr": "Hélédelle"
+  },
+  {
+    "id": "noun_444",
+    "en": "Slakoth",
+    "fr": "Parecool"
+  },
+  {
+    "id": "noun_445",
+    "en": "Skarmory",
+    "fr": "Airmure"
+  },
+  {
+    "id": "noun_446",
+    "en": "Gible",
+    "fr": "Griknot"
+  },
+  {
+    "id": "noun_447",
+    "en": "ELECTRA SOL-ved",
+    "fr": "ELECTRA SOL-ution"
+  },
+  {
+    "id": "noun_448",
+    "en": "Skrill",
+    "fr": "Ecrevasse"
+  },
+  {
+    "id": "noun_449",
+    "en": "Blicktnix",
+    "fr": "Simplebasix"
+  },
+  {
+    "id": "noun_450",
+    "en": "Inkay",
+    "fr": "Sepiatop"
+  },
+  {
+    "id": "noun_451",
+    "en": "Simisage",
+    "fr": "Feuilloutan"
+  },
+  {
+    "id": "noun_452",
+    "en": "Impervius",
+    "fr": "Impervius"
+  },
+  {
+    "id": "noun_453",
+    "en": "Volcarona",
+    "fr": "Pyrax"
+  },
+  {
+    "id": "noun_454",
+    "en": "Poliwhirl",
+    "fr": "Tétarte"
+  },
+  {
+    "id": "noun_455",
+    "en": "Crimea River",
+    "fr": "Marche ou Kiev !"
+  },
+  {
+    "id": "noun_456",
+    "en": "Ammoconda",
+    "fr": "Armaconda"
+  },
+  {
+    "id": "noun_457",
+    "en": "Cascoon",
+    "fr": "Blindalys"
+  },
+  {
+    "id": "noun_458",
+    "en": "thestral",
+    "fr": "sombral"
+  },
+  {
+    "id": "noun_459",
+    "en": "Misdreavus",
+    "fr": "Feufôrêve"
+  },
+  {
+    "id": "noun_460",
+    "en": "Chilldrake",
+    "fr": "Canarebelle"
+  },
+  {
+    "id": "noun_461",
+    "en": "mudblood",
+    "fr": "Sang de Bourbe"
+  },
+  {
+    "id": "noun_462",
+    "en": "Fanghook",
+    "fr": "Ferkroche"
+  },
+  {
+    "id": "noun_463",
+    "en": "Sitting ovation",
+    "fr": "Ovation assise"
+  },
+  {
+    "id": "noun_464",
+    "en": "Meathead Islands",
+    "fr": "Îles Andouillettes"
+  },
+  {
+    "id": "noun_465",
+    "en": "Chinchou",
+    "fr": "Loupio"
+  },
+  {
+    "id": "noun_466",
+    "en": "Torkoal",
+    "fr": "Chartor"
+  },
+  {
+    "id": "noun_467",
+    "en": "Windshear",
+    "fr": "Sonovent"
+  },
+  {
+    "id": "noun_468",
+    "en": "Hair unapparent",
+    "fr": "L’héritier présomptif n’a plus de tifs"
+  },
+  {
+    "id": "noun_469",
+    "en": "Munchlax",
+    "fr": "Goinfrex"
+  },
+  {
+    "id": "noun_470",
+    "en": "knut",
+    "fr": "noise"
+  },
+  {
+    "id": "noun_471",
+    "en": "Ice Cap",
+    "fr": "Calotte Glaciaire"
+  },
+  {
+    "id": "noun_472",
+    "en": "Homunculus",
+    "fr": "Montladsus"
+  },
+  {
+    "id": "noun_473",
+    "en": "Staravia",
+    "fr": "Étourvol"
+  },
+  {
+    "id": "noun_474",
+    "en": "Frobscottle",
+    "fr": "Frétibulle"
+  },
+  {
+    "id": "noun_475",
+    "en": "Buzzwole",
+    "fr": "Mouscoto"
+  },
+  {
+    "id": "noun_476",
+    "en": "Cindy Rock ",
+    "fr": "Cindy Stroï "
+  },
+  {
+    "id": "noun_477",
+    "en": "Pidove",
+    "fr": "Poichigeon"
+  },
+  {
+    "id": "noun_478",
+    "en": "Chimerical Chamomeleon",
+    "fr": "Le Camoufléon fantastique"
+  },
+  {
+    "id": "noun_479",
+    "en": "Zweilous",
+    "fr": "Diamat"
+  },
+  {
+    "id": "noun_480",
+    "en": "Shotbow",
+    "fr": "Automarbalète"
+  },
+  {
+    "id": "noun_481",
+    "en": "Moocheling and footcheling",
+    "fr": "Traînailler et flânouiller"
+  },
+  {
+    "id": "noun_482",
+    "en": "Spheal",
+    "fr": "Obalie"
+  },
+  {
+    "id": "noun_483",
+    "en": "Combee",
+    "fr": "Apitrini"
+  },
+  {
+    "id": "noun_484",
+    "en": "Snozzberries",
+    "fr": "Flageoises"
+  },
+  {
+    "id": "noun_485",
+    "en": "Turner Grey",
+    "fr": "Paul Afforme"
+  },
+  {
+    "id": "noun_486",
+    "en": "Cosmoem",
+    "fr": "Cosmovum"
+  },
+  {
+    "id": "noun_487",
+    "en": "Falinks",
+    "fr": "Hexadron"
+  },
+  {
+    "id": "noun_488",
+    "en": "Influenza",
+    "fr": "Coriza"
+  },
+  {
+    "id": "noun_489",
+    "en": "Absolutlifabulos",
+    "fr": "Hyapados"
+  },
+  {
+    "id": "noun_490",
+    "en": "Harmhug",
+    "fr": "Toxicâline"
+  },
+  {
+    "id": "noun_491",
+    "en": "Scatterbug",
+    "fr": "Lépidonille"
+  },
+  {
+    "id": "noun_492",
+    "en": "JK-47",
+    "fr": "MDR-47"
+  },
+  {
+    "id": "noun_493",
+    "en": "Infernape",
+    "fr": "Simiabraz"
+  },
+  {
+    "id": "noun_494",
+    "en": "dirigible plum",
+    "fr": "prune dirigeable"
+  },
+  {
+    "id": "noun_495",
+    "en": "Joltik",
+    "fr": "Statitik"
+  },
+  {
+    "id": "noun_496",
+    "en": "Ex-Squeeze me",
+    "fr": "J'vous demande pardon ? "
+  },
+  {
+    "id": "noun_497",
+    "en": "Episkey",
+    "fr": "Episkey"
+  },
+  {
+    "id": "noun_498",
+    "en": "Krokorok",
+    "fr": "Escroco"
+  },
+  {
+    "id": "noun_499",
+    "en": "Smeargle",
+    "fr": "Queulorior"
+  },
+  {
+    "id": "noun_500",
+    "en": "Wynaut",
+    "fr": "Okéoké"
+  },
+  {
+    "id": "noun_501",
+    "en": "Cantankerus",
+    "fr": "Nenpeuplus"
+  },
+  {
+    "id": "noun_502",
+    "en": "Gothorita",
+    "fr": "Mesmérella"
+  },
+  {
+    "id": "noun_503",
+    "en": "Tynamo",
+    "fr": "Anchwatt"
+  },
+  {
+    "id": "noun_504",
+    "en": "Bonsly",
+    "fr": "Manzaï"
+  },
+  {
+    "id": "noun_505",
+    "en": "Linoone",
+    "fr": "Linéon"
+  },
+  {
+    "id": "noun_506",
+    "en": "Grapploct",
+    "fr": "Krakos"
+  },
+  {
+    "id": "noun_507",
+    "en": "Chespin",
+    "fr": "Marisson"
+  },
+  {
+    "id": "noun_508",
+    "en": "Neville Longbottom",
+    "fr": "Neville Londubat"
+  },
+  {
+    "id": "noun_509",
+    "en": "Celestina Warbeck",
+    "fr": "Celestina Moldubec"
+  },
+  {
+    "id": "noun_510",
+    "en": "Hogsmeade",
+    "fr": "Pré au Lard"
+  },
+  {
+    "id": "noun_511",
+    "en": "Electrivire",
+    "fr": "Élekable"
+  },
+  {
+    "id": "noun_512",
+    "en": "Vaporeon",
+    "fr": "Aquali"
+  },
+  {
+    "id": "noun_513",
+    "en": "Dracozolt",
+    "fr": "Galvagon"
+  },
+  {
+    "id": "noun_514",
+    "en": "Wendy Oldbag",
+    "fr": "Flavie Eïchouette"
+  },
+  {
+    "id": "noun_515",
+    "en": "Chewtle",
+    "fr": "Khélocrok"
+  },
+  {
+    "id": "noun_516",
+    "en": "Vitriolix",
+    "fr": "Acidcloridrix"
+  },
+  {
+    "id": "noun_517",
+    "en": "Ammomancer",
+    "fr": "Nécroballomancien"
+  },
+  {
+    "id": "noun_518",
+    "en": "Mankey",
+    "fr": "Férosinge"
+  },
+  {
+    "id": "noun_519",
+    "en": "Axewing",
+    "fr": "Ailetranchante"
+  },
+  {
+    "id": "noun_520",
+    "en": "Weasley’s Wizard Wheezes",
+    "fr": "Weasley, Farces pour sorciers facétieux"
+  },
+  {
+    "id": "noun_521",
+    "en": "Stan Shunpike",
+    "fr": "Stan Rocade"
+  },
+  {
+    "id": "noun_522",
+    "en": "Dragunfire",
+    "fr": "Feu du Dragun"
+  },
+  {
+    "id": "noun_523",
+    "en": "Quivering Heights",
+    "fr": "Les hauts de tremblements"
+  },
+  {
+    "id": "noun_524",
+    "en": "Kingdra",
+    "fr": "Hyporoi"
+  },
+  {
+    "id": "noun_525",
+    "en": "Wyskix",
+    "fr": "Ouiskix"
+  },
+  {
+    "id": "noun_526",
+    "en": "Radius",
+    "fr": "Faimoiducuscus"
+  },
+  {
+    "id": "noun_527",
+    "en": "Oricorio",
+    "fr": "Plumeline"
+  },
+  {
+    "id": "noun_528",
+    "en": "Petilil",
+    "fr": "Chlorobule"
+  },
+  {
+    "id": "noun_529",
+    "en": "Kubfu",
+    "fr": "Wushours"
+  },
+  {
+    "id": "noun_530",
+    "en": "inferius",
+    "fr": "inferius"
+  },
+  {
+    "id": "noun_531",
+    "en": "Electric",
+    "fr": "Electric"
+  },
+  {
+    "id": "noun_532",
+    "en": "Armorwing Island",
+    "fr": "Île des Ailarmés"
+  },
+  {
+    "id": "noun_533",
+    "en": "Nuzleaf",
+    "fr": "Pifeuil"
+  },
+  {
+    "id": "noun_534",
+    "en": "Starpew",
+    "fr": "Arroseur à rosée"
+  },
+  {
+    "id": "noun_535",
+    "en": "Snakemaker",
+    "fr": "Serpenteur"
+  },
+  {
+    "id": "noun_536",
+    "en": "Aguamenti",
+    "fr": "Aguamenti"
+  },
+  {
+    "id": "noun_537",
+    "en": "Ben &Trilo Quist",
+    "fr": "Yvan Triloque & Michael Heurtarive"
+  },
+  {
+    "id": "noun_538",
+    "en": "Patrat",
+    "fr": "Ratentif"
+  },
+  {
+    "id": "noun_539",
+    "en": "Boneywasawarriorwayayix",
+    "fr": "Ocatarinetabellatchitchix"
+  },
+  {
+    "id": "noun_540",
+    "en": "Farfetch'd",
+    "fr": "Canarticho"
+  },
+  {
+    "id": "noun_541",
+    "en": "Spinarak",
+    "fr": "Mimigal"
+  },
+  {
+    "id": "noun_542",
+    "en": "Magmortar",
+    "fr": "Maganon"
+  },
+  {
+    "id": "noun_543",
+    "en": "Sectumsempra",
+    "fr": "Sectumsempra"
+  },
+  {
+    "id": "noun_544",
+    "en": "Alomomola",
+    "fr": "Mamanbo"
+  },
+  {
+    "id": "noun_545",
+    "en": "Bogus Genius",
+    "fr": "Bonusmalus"
+  },
+  {
+    "id": "noun_546",
+    "en": "Dewdrop",
+    "fr": "Chasserosée"
+  },
+  {
+    "id": "noun_547",
+    "en": "Clamperl",
+    "fr": "Coquiperl"
+  },
+  {
+    "id": "noun_548",
+    "en": "Analgesix",
+    "fr": "Analgésix"
+  },
+  {
+    "id": "noun_549",
+    "en": "I scream",
+    "fr": "Crime glacé"
+  },
+  {
+    "id": "noun_550",
+    "en": "Bucolix",
+    "fr": "Déboitemenduménix"
+  },
+  {
+    "id": "noun_551",
+    "en": "Crismus Bonus",
+    "fr": "Caius Bonus"
+  },
+  {
+    "id": "noun_552",
+    "en": "Häräldwilssen",
+    "fr": "Neuillisursen"
+  },
+  {
+    "id": "noun_553",
+    "en": "Pansage",
+    "fr": "Feuillajou"
+  },
+  {
+    "id": "noun_554",
+    "en": "Hippowdon",
+    "fr": "Hippodocus"
+  },
+  {
+    "id": "noun_555",
+    "en": "Confoundtheirpolitix",
+    "fr": "Doublepolémix"
+  },
+  {
+    "id": "noun_556",
+    "en": "Liberacorpus",
+    "fr": "Liberacorpus"
+  },
+  {
+    "id": "noun_557",
+    "en": "Bizarregoyle",
+    "fr": "Bizargouille"
+  },
+  {
+    "id": "noun_558",
+    "en": "Marowak",
+    "fr": "Ossatueur"
+  },
+  {
+    "id": "noun_559",
+    "en": "spattergroit",
+    "fr": "Éclabouille"
+  },
+  {
+    "id": "noun_560",
+    "en": "Whismur",
+    "fr": "Chuchmur"
+  },
+  {
+    "id": "noun_561",
+    "en": "Barraskewda",
+    "fr": "Hastacuda"
+  },
+  {
+    "id": "noun_562",
+    "en": "Graveler",
+    "fr": "Gravalanch"
+  },
+  {
+    "id": "noun_563",
+    "en": "flutterby bush",
+    "fr": "plante à pipaillon"
+  },
+  {
+    "id": "noun_564",
+    "en": "Gladrag’s Wizardwear",
+    "fr": "Gaichiffon"
+  },
+  {
+    "id": "noun_565",
+    "en": "Blitzle",
+    "fr": "Zébibron"
+  },
+  {
+    "id": "noun_566",
+    "en": "Fennekin",
+    "fr": "Feunnec"
+  },
+  {
+    "id": "noun_567",
+    "en": "Fawkes",
+    "fr": "Fumseck"
+  },
+  {
+    "id": "noun_568",
+    "en": "Scizor",
+    "fr": "Cizayox"
+  },
+  {
+    "id": "noun_569",
+    "en": "Dronkeys ",
+    "fr": "Dragobourricots"
+  },
+  {
+    "id": "noun_570",
+    "en": "Blacephalon",
+    "fr": "Pierroteknik"
+  },
+  {
+    "id": "noun_571",
+    "en": "Devius Surreptitus",
+    "fr": "Caius Soutienmordicus"
+  },
+  {
+    "id": "noun_572",
+    "en": "Roggenrola",
+    "fr": "Nodulithe"
+  },
+  {
+    "id": "noun_573",
+    "en": "O'veroptimistix",
+    "fr": "O'Torinolaringologix"
+  },
+  {
+    "id": "noun_574",
+    "en": "Electrike",
+    "fr": "Dynavolt"
+  },
+  {
+    "id": "noun_575",
+    "en": "Babblement",
+    "fr": "Bavardinage"
+  },
+  {
+    "id": "noun_576",
+    "en": "Sandshrew",
+    "fr": "Sabelette"
+  },
+  {
+    "id": "noun_577",
+    "en": "Ghaslit",
+    "fr": "Combugasse"
+  },
+  {
+    "id": "noun_578",
+    "en": "Surskit",
+    "fr": "Arakdo"
+  },
+  {
+    "id": "noun_579",
+    "en": "Fishlegs Ingerman",
+    "fr": "Varek Ingerman"
+  },
+  {
+    "id": "noun_580",
+    "en": "Gunderfury",
+    "fr": "Arme-Tonnerre"
+  },
+  {
+    "id": "noun_581",
+    "en": "Kandy & Kane",
+    "fr": "Zukre et Dorze"
+  },
+  {
+    "id": "noun_582",
+    "en": "Gogoat",
+    "fr": "Chevroum"
+  },
+  {
+    "id": "noun_583",
+    "en": "Slugworth",
+    "fr": "Slugworth"
+  },
+  {
+    "id": "noun_584",
+    "en": "Abomasnow",
+    "fr": "Blizzaroi"
+  },
+  {
+    "id": "noun_585",
+    "en": "Aegislash",
+    "fr": "Exagide"
+  },
+  {
+    "id": "noun_586",
+    "en": "Scolipede",
+    "fr": "Brutapode"
+  },
+  {
+    "id": "noun_587",
+    "en": "Rhetoric",
+    "fr": "Cloridric"
+  },
+  {
+    "id": "noun_588",
+    "en": "All you need",
+    "fr": "Visa Ça va"
+  },
+  {
+    "id": "noun_589",
+    "en": "Yamask",
+    "fr": "Tutafeh"
+  },
+  {
+    "id": "noun_590",
+    "en": "Scorbunny",
+    "fr": "Flambino"
+  },
+  {
+    "id": "noun_591",
+    "en": "imperius",
+    "fr": "Imperium"
+  },
+  {
+    "id": "noun_592",
+    "en": "Charmander",
+    "fr": "Salamèche"
+  },
+  {
+    "id": "noun_593",
+    "en": "Plimpy",
+    "fr": "Boullu"
+  },
+  {
+    "id": "noun_594",
+    "en": "Lickitung",
+    "fr": "Excelangue"
+  },
+  {
+    "id": "noun_595",
+    "en": "Loudred",
+    "fr": "Ramboum"
+  },
+  {
+    "id": "noun_596",
+    "en": "Uxie",
+    "fr": "Créhelf"
+  },
+  {
+    "id": "noun_597",
+    "en": "Claudius Omnibus",
+    "fr": "Claudius Métrobus"
+  },
+  {
+    "id": "noun_598",
+    "en": "veela",
+    "fr": "vélane"
+  },
+  {
+    "id": "noun_599",
+    "en": "Willy Wonka",
+    "fr": "Willy Wonka"
+  },
+  {
+    "id": "noun_600",
+    "en": "Alarte Ascendare",
+    "fr": "Volate Ascendere"
+  },
+  {
+    "id": "noun_601",
+    "en": "Human beans",
+    "fr": "Hommes de terre"
+  },
+  {
+    "id": "noun_602",
+    "en": "Irontooth",
+    "fr": "Krodefer"
+  },
+  {
+    "id": "noun_603",
+    "en": "Blaziken",
+    "fr": "Braségali"
+  },
+  {
+    "id": "noun_604",
+    "en": "iBomb Companion App",
+    "fr": "Appli de détonation d'iBombes"
+  },
+  {
+    "id": "noun_605",
+    "en": "Machamp",
+    "fr": "Mackogneur"
+  },
+  {
+    "id": "noun_606",
+    "en": "Glisseo",
+    "fr": "Glisseo"
+  },
+  {
+    "id": "noun_607",
+    "en": "Obsequius",
+    "fr": "Namaspamus"
+  },
+  {
+    "id": "noun_608",
+    "en": "Astronomix",
+    "fr": "Astronomix"
+  },
+  {
+    "id": "noun_609",
+    "en": "Syrian killer",
+    "fr": "Tueur en Syrie"
+  },
+  {
+    "id": "noun_610",
+    "en": "Tirtouga",
+    "fr": "Carapagos"
+  },
+  {
+    "id": "noun_611",
+    "en": "Riddikulus",
+    "fr": "Riddikulus"
+  },
+  {
+    "id": "noun_612",
+    "en": "Ripwrecker",
+    "fr": "Destrukteur "
+  },
+  {
+    "id": "noun_613",
+    "en": "Speed Stinger",
+    "fr": "Vélocidard "
+  },
+  {
+    "id": "noun_614",
+    "en": "Greedent",
+    "fr": "Rongrigou"
+  },
+  {
+    "id": "noun_615",
+    "en": "Operachorus",
+    "fr": "Chorus"
+  },
+  {
+    "id": "noun_616",
+    "en": "Minun",
+    "fr": "Négapi"
+  },
+  {
+    "id": "noun_617",
+    "en": "GREASEHOLE",
+    "fr": "TAUDHUILE"
+  },
+  {
+    "id": "noun_618",
+    "en": "Cottonee",
+    "fr": "Douvouvet"
+  },
+  {
+    "id": "noun_619",
+    "en": "Nøgøødreässen",
+    "fr": "Målsen"
+  },
+  {
+    "id": "noun_620",
+    "en": "Tranquill",
+    "fr": "Colombeau"
+  },
+  {
+    "id": "noun_621",
+    "en": "Starly",
+    "fr": "Étourmi"
+  },
+  {
+    "id": "noun_622",
+    "en": "Seaking",
+    "fr": "Poissoroy"
+  },
+  {
+    "id": "noun_623",
+    "en": "Dracovish",
+    "fr": "Hydragon"
+  },
+  {
+    "id": "noun_624",
+    "en": "Mareanie",
+    "fr": "Vorastérie"
+  },
+  {
+    "id": "noun_625",
+    "en": "Minccino",
+    "fr": "Chinchidou"
+  },
+  {
+    "id": "noun_626",
+    "en": "Spitelout Jorgenson",
+    "fr": "Mastok Jorgenson"
+  },
+  {
+    "id": "noun_627",
+    "en": "puffapod",
+    "fr": "champifleur"
+  },
+  {
+    "id": "noun_628",
+    "en": "Kreacher",
+    "fr": "Kreattur"
+  },
+  {
+    "id": "noun_629",
+    "en": "Hitmontee",
+    "fr": "Kicklee"
+  },
+  {
+    "id": "noun_630",
+    "en": "Sandaconda",
+    "fr": "Dunaconda"
+  },
+  {
+    "id": "noun_631",
+    "en": "Circumbendibus",
+    "fr": "Lucius Coquelus"
+  },
+  {
+    "id": "noun_632",
+    "en": "The Fleshlumpeater ",
+    "fr": "L'avaleur de chair fraîche"
+  },
+  {
+    "id": "noun_633",
+    "en": "Dusclops",
+    "fr": "Téraclope"
+  },
+  {
+    "id": "noun_634",
+    "en": "Strodelling",
+    "fr": "Gambadiller"
+  },
+  {
+    "id": "noun_635",
+    "en": "Grumpig",
+    "fr": "Groret"
+  },
+  {
+    "id": "noun_636",
+    "en": "Snowdrake",
+    "fr": "Froid'canard"
+  },
+  {
+    "id": "noun_637",
+    "en": "Watziznehm",
+    "fr": "Kiçàh"
+  },
+  {
+    "id": "noun_638",
+    "en": "R2G2",
+    "fr": "R2G2"
+  },
+  {
+    "id": "noun_639",
+    "en": "Scrumdiddlyumptious",
+    "fr": "Délexquisavouricieux"
+  },
+  {
+    "id": "noun_640",
+    "en": "Blobulin",
+    "fr": "Blobulin"
+  },
+  {
+    "id": "noun_641",
+    "en": "Dubbledekabus",
+    "fr": "Abribus"
+  },
+  {
+    "id": "noun_642",
+    "en": "Adrenalin",
+    "fr": "Adrénaline"
+  },
+  {
+    "id": "noun_643",
+    "en": "Castform",
+    "fr": "Morphéo"
+  },
+  {
+    "id": "noun_644",
+    "en": "Sirfetch'd",
+    "fr": "Palarticho"
+  },
+  {
+    "id": "noun_645",
+    "en": "Mad-Eye Moody",
+    "fr": "Maugrey Fol-Œil"
+  },
+  {
+    "id": "noun_646",
+    "en": "Matt Engarde",
+    "fr": "Matt Engarde"
+  },
+  {
+    "id": "noun_647",
+    "en": "Komala",
+    "fr": "Dodoala"
+  },
+  {
+    "id": "noun_648",
+    "en": "Fightsabre",
+    "fr": "Mitrailleuse Jedi"
+  },
+  {
+    "id": "noun_649",
+    "en": "Snaptrapper",
+    "fr": "Rapidopiège"
+  },
+  {
+    "id": "noun_650",
+    "en": "Boldore",
+    "fr": "Géolithe"
+  },
+  {
+    "id": "noun_651",
+    "en": "Happiny",
+    "fr": "Ptiravi"
+  },
+  {
+    "id": "noun_652",
+    "en": "Exeggutor",
+    "fr": "Noadkoko"
+  },
+  {
+    "id": "noun_653",
+    "en": "Ekans",
+    "fr": "Abo"
+  },
+  {
+    "id": "noun_654",
+    "en": "Fightsabre",
+    "fr": "Épée-flingue"
+  },
+  {
+    "id": "noun_655",
+    "en": "Elgyem",
+    "fr": "Lewsor"
+  },
+  {
+    "id": "noun_656",
+    "en": "Huevos y Bacon",
+    "fr": "Soupalognon y Crouton"
+  },
+  {
+    "id": "noun_657",
+    "en": "Villanus",
+    "fr": "Plexus"
+  },
+  {
+    "id": "noun_658",
+    "en": "Cradily",
+    "fr": "Vacilys"
+  },
+  {
+    "id": "noun_659",
+    "en": "Tortuous Convolvulos",
+    "fr": "Lucius Détritus"
+  },
+  {
+    "id": "noun_660",
+    "en": "Frostbiter",
+    "fr": "Mord-Givre"
+  },
+  {
+    "id": "noun_661",
+    "en": "Noctowl",
+    "fr": "Noarfang"
+  },
+  {
+    "id": "noun_662",
+    "en": "Sunkern",
+    "fr": "Tournegrin"
+  },
+  {
+    "id": "noun_663",
+    "en": "The Bloodbottler",
+    "fr": "Le buveur de sang"
+  },
+  {
+    "id": "noun_664",
+    "en": "Gobber the Belch",
+    "fr": "Gueulfor"
+  },
+  {
+    "id": "noun_665",
+    "en": "Voltknapper",
+    "fr": "Pikpokwatt"
+  },
+  {
+    "id": "noun_666",
+    "en": "Applin",
+    "fr": "Verpom"
+  },
+  {
+    "id": "noun_667",
+    "en": "Eatable Marshmallow Pillows",
+    "fr": "Oreillers mangeables en guimauve"
+  },
+  {
+    "id": "noun_668",
+    "en": "Prehistoric",
+    "fr": "Histéric"
+  },
+  {
+    "id": "noun_669",
+    "en": "Centiskorch",
+    "fr": "Scolocendre"
+  },
+  {
+    "id": "noun_670",
+    "en": "Basculin",
+    "fr": "Bargantua"
+  },
+  {
+    "id": "noun_671",
+    "en": "Hoppip",
+    "fr": "Granivol"
+  },
+  {
+    "id": "noun_672",
+    "en": "Venusaur",
+    "fr": "Florizarre"
+  },
+  {
+    "id": "noun_673",
+    "en": "Fuzzbucket",
+    "fr": "Bouldepoil"
+  },
+  {
+    "id": "noun_674",
+    "en": "Crustacius",
+    "fr": "Gracchus Cétinconsensus"
+  },
+  {
+    "id": "noun_675",
+    "en": "Beachcomber",
+    "fr": "Pilleplage"
+  },
+  {
+    "id": "noun_676",
+    "en": "Vanillite",
+    "fr": "Sorbébé"
+  },
+  {
+    "id": "noun_677",
+    "en": "Gabite",
+    "fr": "Carmache"
+  },
+  {
+    "id": "noun_678",
+    "en": "Pyukumuku",
+    "fr": "Concombaffe"
+  },
+  {
+    "id": "noun_679",
+    "en": "Arbok",
+    "fr": "Arbok"
+  },
+  {
+    "id": "noun_680",
+    "en": "Lampent",
+    "fr": "Mélancolux"
+  },
+  {
+    "id": "noun_681",
+    "en": "Mantyke",
+    "fr": "Babimanta"
+  },
+  {
+    "id": "noun_682",
+    "en": "Glastrier",
+    "fr": "Blizzeval"
+  },
+  {
+    "id": "noun_683",
+    "en": "Kricketot",
+    "fr": "Crikzik"
+  },
+  {
+    "id": "noun_684",
+    "en": "Fireworm Island",
+    "fr": "Île des Verenflammes"
+  },
+  {
+    "id": "noun_685",
+    "en": "Aron",
+    "fr": "Galekid"
+  },
+  {
+    "id": "noun_686",
+    "en": "Frostfright",
+    "fr": "Effraigel"
+  },
+  {
+    "id": "noun_687",
+    "en": "Origuni",
+    "fr": "Origarmi"
+  },
+  {
+    "id": "noun_688",
+    "en": "Abba",
+    "fr": "Abba"
+  },
+  {
+    "id": "noun_689",
+    "en": "Excadrill",
+    "fr": "Minotaupe"
+  },
+  {
+    "id": "noun_690",
+    "en": "Flaredawn",
+    "fr": "Flaurore"
+  },
+  {
+    "id": "noun_691",
+    "en": "Rufflet",
+    "fr": "Furaiglon"
+  },
+  {
+    "id": "noun_692",
+    "en": "Alcremie",
+    "fr": "Charmilly"
+  },
+  {
+    "id": "noun_693",
+    "en": "Clawitzer",
+    "fr": "Gamblast"
+  },
+  {
+    "id": "noun_694",
+    "en": "Lonewood",
+    "fr": "Boisolé"
+  },
+  {
+    "id": "noun_695",
+    "en": "Karrablast",
+    "fr": "Carabing"
+  },
+  {
+    "id": "noun_696",
+    "en": "Staraptor",
+    "fr": "Étouraptor"
+  },
+  {
+    "id": "noun_697",
+    "en": "Vermicious Knids",
+    "fr": "Kpoux Vermicieux"
+  },
+  {
+    "id": "noun_698",
+    "en": "Photogenix",
+    "fr": "Bellodalix"
+  },
+  {
+    "id": "noun_699",
+    "en": "Carbink",
+    "fr": "Strassie"
+  },
+  {
+    "id": "noun_700",
+    "en": "Sorting hat",
+    "fr": "Choixpeau magique"
+  },
+  {
+    "id": "noun_701",
+    "en": "Igglybuff",
+    "fr": "Toudoudou"
+  },
+  {
+    "id": "noun_702",
+    "en": "Milcery",
+    "fr": "Crèmy"
+  },
+  {
+    "id": "noun_703",
+    "en": "Bisharp",
+    "fr": "Scalproie"
+  },
+  {
+    "id": "noun_704",
+    "en": "Winesanspirix",
+    "fr": "Alambix"
+  },
+  {
+    "id": "noun_705",
+    "en": "Squirtle",
+    "fr": "Carapuce"
+  },
+  {
+    "id": "noun_706",
+    "en": "Trogglehumper",
+    "fr": "Troglopompes"
+  },
+  {
+    "id": "noun_707",
+    "en": "Sceptile",
+    "fr": "Jungko"
+  },
+  {
+    "id": "noun_708",
+    "en": "Bidoof",
+    "fr": "Keunotor"
+  },
+  {
+    "id": "noun_709",
+    "en": "Firescrapes",
+    "fr": "Égratiflammes"
+  },
+  {
+    "id": "noun_710",
+    "en": "Treecko",
+    "fr": "Arcko"
+  },
+  {
+    "id": "noun_711",
+    "en": "Lurantis",
+    "fr": "Floramantis"
+  },
+  {
+    "id": "noun_712",
+    "en": "Hitmonchan",
+    "fr": "Tygnon"
+  },
+  {
+    "id": "noun_713",
+    "en": "Clumpty clumpty clumpt",
+    "fr": "Polotop polotop"
+  },
+  {
+    "id": "noun_714",
+    "en": "Trevenant",
+    "fr": "Desséliande"
+  },
+  {
+    "id": "noun_715",
+    "en": "Venipede",
+    "fr": "Venipatte"
+  },
+  {
+    "id": "noun_716",
+    "en": "Manstinger",
+    "fr": "Percemain "
+  },
+  {
+    "id": "noun_717",
+    "en": "Hat trick",
+    "fr": "Tour du chapeau"
+  },
+  {
+    "id": "noun_718",
+    "en": "Quagsire",
+    "fr": "Maraiste"
+  },
+  {
+    "id": "noun_719",
+    "en": "Stinger",
+    "fr": "Bazoo-dard"
+  },
+  {
+    "id": "noun_720",
+    "en": "Tear Jerker",
+    "fr": "Larmes à feu"
+  },
+  {
+    "id": "noun_721",
+    "en": "Clefairy",
+    "fr": "Mélofée"
+  },
+  {
+    "id": "noun_722",
+    "en": "Slugma",
+    "fr": "Limagma"
+  },
+  {
+    "id": "noun_723",
+    "en": "Halcyard",
+    "fr": "Douxéclat"
+  },
+  {
+    "id": "noun_724",
+    "en": "Patches and Mendy",
+    "fr": "Patches et Mendy"
+  },
+  {
+    "id": "noun_725",
+    "en": "Duosion",
+    "fr": "Méios"
+  },
+  {
+    "id": "noun_726",
+    "en": "Caterpie",
+    "fr": "Chenipan"
+  },
+  {
+    "id": "noun_727",
+    "en": "nosebleed nougats",
+    "fr": "nougats néansang"
+  },
+  {
+    "id": "noun_728",
+    "en": "Padfoot",
+    "fr": "Patmol"
+  },
+  {
+    "id": "noun_729",
+    "en": "Bibarel",
+    "fr": "Castorno"
+  },
+  {
+    "id": "noun_730",
+    "en": "Wurst",
+    "fr": "Patathor"
+  },
+  {
+    "id": "noun_731",
+    "en": "Boneknapper",
+    "fr": "Pikpoketos"
+  },
+  {
+    "id": "noun_732",
+    "en": "Postaldistrix",
+    "fr": "Pneumatix"
+  },
+  {
+    "id": "noun_733",
+    "en": "Insalubrius",
+    "fr": "Briseradius"
+  },
+  {
+    "id": "noun_734",
+    "en": "Smothering Smokebreath",
+    "fr": "Souffle Fumimortel"
+  },
+  {
+    "id": "noun_735",
+    "en": "Floeshot",
+    "fr": "Icebang"
+  },
+  {
+    "id": "noun_736",
+    "en": "Vespiquen",
+    "fr": "Apireine"
+  },
+  {
+    "id": "noun_737",
+    "en": "Totodile",
+    "fr": "Kaiminus"
+  },
+  {
+    "id": "noun_738",
+    "en": "ascendio",
+    "fr": "Ascendio"
+  },
+  {
+    "id": "noun_739",
+    "en": "Superfluous",
+    "fr": "Pacotéalargus"
+  },
+  {
+    "id": "noun_740",
+    "en": "Newton Scamander",
+    "fr": "Norbert Dragonneau"
+  },
+  {
+    "id": "noun_741",
+    "en": "Giveusabonus",
+    "fr": "Travaillerpluspourgagnerplus"
+  },
+  {
+    "id": "noun_742",
+    "en": "Crustle",
+    "fr": "Crabaraque"
+  },
+  {
+    "id": "noun_743",
+    "en": "McAnix",
+    "fr": "Mac Anothérapix"
+  },
+  {
+    "id": "noun_744",
+    "en": "Dawnbite",
+    "fr": "Mordaurore"
+  },
+  {
+    "id": "noun_745",
+    "en": "Virizion",
+    "fr": "Viridium"
+  },
+  {
+    "id": "noun_746",
+    "en": "Frostgnaw",
+    "fr": "Rongivre"
+  },
+  {
+    "id": "noun_747",
+    "en": "Goregutter",
+    "fr": "Étrigore "
+  },
+  {
+    "id": "noun_748",
+    "en": "Whirlipede",
+    "fr": "Scobolide"
+  },
+  {
+    "id": "noun_749",
+    "en": "Koffing",
+    "fr": "Smogo"
+  },
+  {
+    "id": "noun_750",
+    "en": "Lilipup",
+    "fr": "Ponchiot"
+  },
+  {
+    "id": "noun_751",
+    "en": "Chipolata",
+    "fr": "Chipolata"
+  },
+  {
+    "id": "noun_752",
+    "en": "Eviscereaper",
+    "fr": "Eviceraptor"
+  },
+  {
+    "id": "noun_753",
+    "en": "Moony",
+    "fr": "Lunard"
+  },
+  {
+    "id": "noun_754",
+    "en": "Mosster",
+    "fr": "Vert Kiroul"
+  },
+  {
+    "id": "noun_755",
+    "en": "Homeopathix",
+    "fr": "Homéopatix"
+  },
+  {
+    "id": "noun_756",
+    "en": "dementor",
+    "fr": "détraqueur"
+  },
+  {
+    "id": "noun_757",
+    "en": "Hotshot",
+    "fr": "Tirelarigo"
+  },
+  {
+    "id": "noun_758",
+    "en": "Watchog",
+    "fr": "Miradar"
+  },
+  {
+    "id": "noun_759",
+    "en": "Timburr",
+    "fr": "Charpenti"
+  },
+  {
+    "id": "noun_760",
+    "en": "Runerigus",
+    "fr": "Tutétékri"
+  },
+  {
+    "id": "noun_761",
+    "en": "Dewgong",
+    "fr": "Lamantine"
+  },
+  {
+    "id": "noun_762",
+    "en": "Cursula",
+    "fr": "Malédirsula"
+  },
+  {
+    "id": "noun_763",
+    "en": "Knight Bus",
+    "fr": "Magicobus"
+  },
+  {
+    "id": "noun_764",
+    "en": "Dragonair",
+    "fr": "Draco"
+  },
+  {
+    "id": "noun_765",
+    "en": "Radio squeaker",
+    "fr": "Radiorapporteur"
+  },
+  {
+    "id": "noun_766",
+    "en": "Icky-poo",
+    "fr": "Nauséabeurk"
+  },
+  {
+    "id": "noun_767",
+    "en": "Slowbro",
+    "fr": "Flagadoss"
+  },
+  {
+    "id": "noun_768",
+    "en": "Rictusempra",
+    "fr": "Rictusempra"
+  },
+  {
+    "id": "noun_769",
+    "en": "cauldron cake",
+    "fr": "fondant du chaudron"
+  },
+  {
+    "id": "noun_770",
+    "en": "Shellos",
+    "fr": "Sancoki"
+  },
+  {
+    "id": "noun_771",
+    "en": "Mamoswine",
+    "fr": "Mammochon"
+  },
+  {
+    "id": "noun_772",
+    "en": "Holey Grail",
+    "fr": "Sacreux Graal"
+  },
+  {
+    "id": "noun_773",
+    "en": "Eelektross",
+    "fr": "Ohmassacre"
+  },
+  {
+    "id": "noun_774",
+    "en": "Typhoomerang",
+    "fr": "Typhonmrang "
+  },
+  {
+    "id": "noun_775",
+    "en": "Glaivedriver",
+    "fr": "Planteglaive"
+  },
+  {
+    "id": "noun_776",
+    "en": "Gun Fairy",
+    "fr": "Fée d'armes"
+  },
+  {
+    "id": "noun_777",
+    "en": "Basket Case",
+    "fr": "Neufdepak"
+  },
+  {
+    "id": "noun_778",
+    "en": "Shelgon",
+    "fr": "Drackhaus"
+  },
+  {
+    "id": "noun_779",
+    "en": "Waddiwasi",
+    "fr": "Waddiwasi"
+  },
+  {
+    "id": "noun_780",
+    "en": "Ampharos",
+    "fr": "Pharamp"
+  },
+  {
+    "id": "noun_781",
+    "en": "Greninja",
+    "fr": "Amphinobi"
+  },
+  {
+    "id": "noun_782",
+    "en": "Bombshee",
+    "fr": "Fée Carabombe"
+  },
+  {
+    "id": "noun_783",
+    "en": "Atlantix",
+    "fr": "Arrierboutix"
+  },
+  {
+    "id": "noun_784",
+    "en": "Swablu",
+    "fr": "Tylton"
+  },
+  {
+    "id": "noun_785",
+    "en": "Golisopod",
+    "fr": "Sarmuraï"
+  },
+  {
+    "id": "noun_786",
+    "en": "Vanilla",
+    "fr": "Gélatine"
+  },
+  {
+    "id": "noun_787",
+    "en": "Fomantis",
+    "fr": "Mimantis"
+  },
+  {
+    "id": "noun_788",
+    "en": "Shiinotic",
+    "fr": "Lampignon"
+  },
+  {
+    "id": "noun_789",
+    "en": "Melodrama",
+    "fr": "Fanzine"
+  },
+  {
+    "id": "noun_790",
+    "en": "Cobalion",
+    "fr": "Cobaltium"
+  },
+  {
+    "id": "noun_791",
+    "en": "Madam Puddifoot’s",
+    "fr": "Madame Pieddodu"
+  },
+  {
+    "id": "noun_792",
+    "en": "Cool cats",
+    "fr": "Nitrogly-chat-rine"
+  },
+  {
+    "id": "noun_793",
+    "en": "Glaceon",
+    "fr": "Givrali"
+  },
+  {
+    "id": "noun_794",
+    "en": "Torracat",
+    "fr": "Matoufeu"
+  },
+  {
+    "id": "noun_795",
+    "en": "Rowlet",
+    "fr": "Brindibou"
+  },
+  {
+    "id": "noun_796",
+    "en": "Diagnostix",
+    "fr": "Diagnostix"
+  },
+  {
+    "id": "noun_797",
+    "en": "Nescaf",
+    "fr": "Batdaf"
+  },
+  {
+    "id": "noun_798",
+    "en": "Sizzlepan",
+    "fr": "Poêle à frire"
+  },
+  {
+    "id": "noun_799",
+    "en": "Mothim",
+    "fr": "Papilord"
+  },
+  {
+    "id": "noun_800",
+    "en": "Cheesemonger",
+    "fr": "Toutakhanut"
+  },
+  {
+    "id": "noun_801",
+    "en": "Chatot",
+    "fr": "Pijako"
+  },
+  {
+    "id": "noun_802",
+    "en": "Nadder",
+    "fr": "Vipère"
+  },
+  {
+    "id": "noun_803",
+    "en": "Poipole",
+    "fr": "Vémini"
+  },
+  {
+    "id": "noun_804",
+    "en": "Venomoth",
+    "fr": "Aéromite"
+  },
+  {
+    "id": "noun_805",
+    "en": "Barbaracle",
+    "fr": "Golgopathe"
+  },
+  {
+    "id": "noun_806",
+    "en": "Garchomp",
+    "fr": "Carchacrok"
+  },
+  {
+    "id": "noun_807",
+    "en": "Phantump",
+    "fr": "Brocélôme"
+  },
+  {
+    "id": "noun_808",
+    "en": "Pidgeotto",
+    "fr": "Roucoups"
+  },
+  {
+    "id": "noun_809",
+    "en": "Triple Stryke",
+    "fr": "Triplattak"
+  },
+  {
+    "id": "noun_810",
+    "en": "Swanna",
+    "fr": "Lakmécygne"
+  },
+  {
+    "id": "noun_811",
+    "en": "Furfrou",
+    "fr": "Couafarel"
+  },
+  {
+    "id": "noun_812",
+    "en": "Harmonix",
+    "fr": "Allégorix"
+  },
+  {
+    "id": "noun_813",
+    "en": "Trashcannon",
+    "fr": "Tire-Ordures"
+  },
+  {
+    "id": "noun_814",
+    "en": "Mudsdale",
+    "fr": "Bourrinos"
+  },
+  {
+    "id": "noun_815",
+    "en": "Pincurchin",
+    "fr": "Wattapik"
+  },
+  {
+    "id": "noun_816",
+    "en": "Unfezant",
+    "fr": "Déflaisan"
+  },
+  {
+    "id": "noun_817",
+    "en": "Face Melter",
+    "fr": "Amplificatueur"
+  },
+  {
+    "id": "noun_818",
+    "en": "Furret",
+    "fr": "Fouinar"
+  },
+  {
+    "id": "noun_819",
+    "en": "Shotgun Coffee",
+    "fr": "Ballacafé"
+  },
+  {
+    "id": "noun_820",
+    "en": "Spiritzee",
+    "fr": "Fluvetin"
+  },
+  {
+    "id": "noun_821",
+    "en": "Cacofonix",
+    "fr": "Assurancetourix"
+  },
+  {
+    "id": "noun_822",
+    "en": "Lycanwing Island",
+    "fr": "Île des Lycanailes"
+  },
+  {
+    "id": "noun_823",
+    "en": "skiving snackbox",
+    "fr": "boîte à flemme"
+  },
+  {
+    "id": "noun_824",
+    "en": "Mintjulep",
+    "fr": "Ginfis"
+  },
+  {
+    "id": "noun_825",
+    "en": "Walrein",
+    "fr": "Kaimorse"
+  },
+  {
+    "id": "noun_826",
+    "en": "Prawnsinaspix",
+    "fr": "Catédralgotix"
+  },
+  {
+    "id": "noun_827",
+    "en": "Caius Pusillanimus",
+    "fr": "Caius Joligibus"
+  },
+  {
+    "id": "noun_828",
+    "en": "Nefarius Purpus",
+    "fr": "Hotelterminus"
+  },
+  {
+    "id": "noun_829",
+    "en": "Braixen",
+    "fr": "Roussil"
+  },
+  {
+    "id": "noun_830",
+    "en": "Uckyslush",
+    "fr": "Exécrignobles"
+  },
+  {
+    "id": "noun_831",
+    "en": "Mobiliarbus",
+    "fr": "Mobiliarbus"
+  },
+  {
+    "id": "noun_832",
+    "en": "The Unexpected Side",
+    "fr": "Les à-côtés bien cotés"
+  },
+  {
+    "id": "noun_833",
+    "en": "Phizzwizard",
+    "fr": "Tintinnabuleur"
+  },
+  {
+    "id": "noun_834",
+    "en": "Cutiefly",
+    "fr": "Bombydou"
+  },
+  {
+    "id": "noun_835",
+    "en": "Dugtrio",
+    "fr": "Triopikeur"
+  },
+  {
+    "id": "noun_836",
+    "en": "The Quibbler",
+    "fr": "Le Chicaneur"
+  },
+  {
+    "id": "noun_837",
+    "en": "Flystorm",
+    "fr": "Pantête"
+  },
+  {
+    "id": "noun_838",
+    "en": "Slimeball",
+    "fr": "Baviboule"
+  },
+  {
+    "id": "noun_839",
+    "en": "Vexatius Sinusitus",
+    "fr": "Claudius Malosinus"
+  },
+  {
+    "id": "noun_840",
+    "en": "Litten",
+    "fr": "Flamiaou"
+  },
+  {
+    "id": "noun_841",
+    "en": "fanged geranium",
+    "fr": "géranium dentu"
+  },
+  {
+    "id": "noun_842",
+    "en": "Guzzlord",
+    "fr": "Engloutyran"
+  },
+  {
+    "id": "noun_843",
+    "en": "Araquanid",
+    "fr": "Tarenbulle"
+  },
+  {
+    "id": "noun_844",
+    "en": "Almondine",
+    "fr": "Amandette"
+  },
+  {
+    "id": "noun_845",
+    "en": "flitterbloom",
+    "fr": "voltiflor"
+  },
+  {
+    "id": "noun_846",
+    "en": "gillyweed",
+    "fr": "branchiflore"
+  },
+  {
+    "id": "noun_847",
+    "en": "Swoobat",
+    "fr": "Rhinolove"
+  },
+  {
+    "id": "noun_848",
+    "en": "Mike Teavee",
+    "fr": "Mike Teavee"
+  },
+  {
+    "id": "noun_849",
+    "en": "Titus Crapulus",
+    "fr": "Ballondebaudrus"
+  },
+  {
+    "id": "noun_850",
+    "en": "Meatlug",
+    "fr": "Bouledogre"
+  },
+  {
+    "id": "noun_851",
+    "en": "Shedinja",
+    "fr": "Munja"
+  },
+  {
+    "id": "noun_852",
+    "en": "Yamper",
+    "fr": "Voltoutou"
+  },
+  {
+    "id": "noun_853",
+    "en": "Unhealthix",
+    "fr": "Oftalmologix"
+  },
+  {
+    "id": "noun_854",
+    "en": "Sethisbackup",
+    "fr": "Tumehéris"
+  },
+  {
+    "id": "noun_855",
+    "en": "Asterix",
+    "fr": "Astérix"
+  },
+  {
+    "id": "noun_856",
+    "en": "Cloyster",
+    "fr": "Crustabri"
+  },
+  {
+    "id": "noun_857",
+    "en": "Fireshrike",
+    "fr": "Pie-de-feu"
+  },
+  {
+    "id": "noun_858",
+    "en": "Levicorpus",
+    "fr": "Levicorpus"
+  },
+  {
+    "id": "noun_859",
+    "en": "Piplup",
+    "fr": "Tiplouf"
+  },
+  {
+    "id": "noun_860",
+    "en": "Showbusinus",
+    "fr": "Guilus"
+  },
+  {
+    "id": "noun_861",
+    "en": "animagus",
+    "fr": "animagus"
+  },
+  {
+    "id": "noun_862",
+    "en": "Ironhide",
+    "fr": "Cuirassofer"
+  },
+  {
+    "id": "noun_863",
+    "en": "Floatzel",
+    "fr": "Mustéflott"
+  },
+  {
+    "id": "noun_864",
+    "en": "Wigglytuff",
+    "fr": "Grodoudou"
+  },
+  {
+    "id": "noun_865",
+    "en": "Corsola",
+    "fr": "Corayon"
+  },
+  {
+    "id": "noun_866",
+    "en": "Gothitelle",
+    "fr": "Sidérella"
+  },
+  {
+    "id": "noun_867",
+    "en": "Hungarian Horntail",
+    "fr": "Magyar à pointes"
+  },
+  {
+    "id": "noun_868",
+    "en": "Inteleon",
+    "fr": "Lézargus"
+  },
+  {
+    "id": "noun_869",
+    "en": "Sandygast",
+    "fr": "Bacabouh"
+  },
+  {
+    "id": "noun_870",
+    "en": "Smart haircolour",
+    "fr": "Brillant, ce colorant !"
+  },
+  {
+    "id": "noun_871",
+    "en": "Grimtorn",
+    "fr": "Sombrumeux Sombre"
+  },
+  {
+    "id": "noun_872",
+    "en": "Madam Malkin",
+    "fr": "Madame Guipure"
+  },
+  {
+    "id": "noun_873",
+    "en": "Yanni Yogi",
+    "fr": "Yanni Yogi"
+  },
+  {
+    "id": "noun_874",
+    "en": "cockroach clusters",
+    "fr": "nids de cafards"
+  },
+  {
+    "id": "noun_875",
+    "en": "Cubone",
+    "fr": "Osselait"
+  },
+  {
+    "id": "noun_876",
+    "en": "Pidgey",
+    "fr": "Roucool"
+  },
+  {
+    "id": "noun_877",
+    "en": "Groundsplitter",
+    "fr": "Fendeur terrestre"
+  },
+  {
+    "id": "noun_878",
+    "en": "Moltres",
+    "fr": "Sulfura"
+  },
+  {
+    "id": "noun_879",
+    "en": "Muddlehunt",
+    "fr": "Cherchembrouille"
+  },
+  {
+    "id": "noun_880",
+    "en": "Sigilyph",
+    "fr": "Cryptéro"
+  },
+  {
+    "id": "noun_881",
+    "en": "Horsea",
+    "fr": "Hypotrempe"
+  },
+  {
+    "id": "noun_882",
+    "en": "jelly slug",
+    "fr": "gomme de limace"
+  },
+  {
+    "id": "noun_883",
+    "en": "Goldenslumbus",
+    "fr": "Quintilius"
+  },
+  {
+    "id": "noun_884",
+    "en": "Scourgify",
+    "fr": "Recurvite"
+  },
+  {
+    "id": "noun_885",
+    "en": "Bumbullets",
+    "fr": "Balle Essaim"
+  },
+  {
+    "id": "noun_886",
+    "en": "Silvally",
+    "fr": "Silvallié"
+  },
+  {
+    "id": "noun_887",
+    "en": "Courtingdisastus",
+    "fr": "Sciencinfus"
+  },
+  {
+    "id": "noun_888",
+    "en": "Nosepass",
+    "fr": "Tarinor"
+  },
+  {
+    "id": "noun_889",
+    "en": "Deerling",
+    "fr": "Vivaldaim"
+  },
+  {
+    "id": "noun_890",
+    "en": "Buzzbuggers",
+    "fr": "Bavardouillages"
+  },
+  {
+    "id": "noun_891",
+    "en": "Seadra",
+    "fr": "Hypocéan"
+  },
+  {
+    "id": "noun_892",
+    "en": "apparition",
+    "fr": "transplanage"
+  },
+  {
+    "id": "noun_893",
+    "en": "Hurleqast",
+    "fr": "Arlecrainte"
+  },
+  {
+    "id": "noun_894",
+    "en": "Arteriosclerosus",
+    "fr": "Pamplemus"
+  },
+  {
+    "id": "noun_895",
+    "en": "Wooloo",
+    "fr": "Moumouton"
+  },
+  {
+    "id": "noun_896",
+    "en": "Sandslash",
+    "fr": "Sablaireau"
+  },
+  {
+    "id": "noun_897",
+    "en": "Madam Pomfrey",
+    "fr": "Pompom Pomfresh"
+  },
+  {
+    "id": "noun_898",
+    "en": "Soporifix",
+    "fr": "Plantaquatix"
+  },
+  {
+    "id": "noun_899",
+    "en": "mumblemumps",
+    "fr": "Oreillongoules"
+  },
+  {
+    "id": "noun_900",
+    "en": "Mudbray",
+    "fr": "Tiboudet"
+  },
+  {
+    "id": "noun_901",
+    "en": "Yungoos",
+    "fr": "Manglouton"
+  },
+  {
+    "id": "noun_902",
+    "en": "Bagon",
+    "fr": "Draby"
+  },
+  {
+    "id": "noun_903",
+    "en": "Copperajah",
+    "fr": "Pachyradjah"
+  },
+  {
+    "id": "noun_904",
+    "en": "Sylveon",
+    "fr": "Nymphali"
+  },
+  {
+    "id": "noun_905",
+    "en": "Sobble",
+    "fr": "Laméléon"
+  },
+  {
+    "id": "noun_906",
+    "en": "Raucus Hallelujachorus",
+    "fr": "Fercorus"
+  },
+  {
+    "id": "noun_907",
+    "en": "Marshtomp",
+    "fr": "Flobio"
+  },
+  {
+    "id": "noun_908",
+    "en": "Locomotor",
+    "fr": "Locomotor"
+  },
+  {
+    "id": "noun_909",
+    "en": "Illegibilus",
+    "fr": "Illegibilus"
+  },
+  {
+    "id": "noun_910",
+    "en": "Unpatriotix",
+    "fr": "Quatrédeusix"
+  },
+  {
+    "id": "noun_911",
+    "en": "Murkrow",
+    "fr": "Cornèbre"
+  },
+  {
+    "id": "noun_912",
+    "en": "Snozzcumbers ",
+    "fr": "Schnockombres"
+  },
+  {
+    "id": "noun_913",
+    "en": "Solrock",
+    "fr": "Solaroc"
+  },
+  {
+    "id": "noun_914",
+    "en": "Serperior",
+    "fr": "Majaspic"
+  },
+  {
+    "id": "noun_915",
+    "en": "Gloomshadow",
+    "fr": "Obscurombre"
+  },
+  {
+    "id": "noun_916",
+    "en": "Whizzpoppers",
+    "fr": "Crépitage"
+  },
+  {
+    "id": "noun_917",
+    "en": "Olaf Timandahaf",
+    "fr": "Olaf Grossebaf"
+  },
+  {
+    "id": "noun_918",
+    "en": "Tympole",
+    "fr": "Tritonde"
+  },
+  {
+    "id": "noun_919",
+    "en": "Hotti Clinic",
+    "fr": "Clinique Sashoff"
+  },
+  {
+    "id": "noun_920",
+    "en": "Silcoon",
+    "fr": "Armulys"
+  },
+  {
+    "id": "noun_921",
+    "en": "Tenansix",
+    "fr": "Cétyounix"
+  },
+  {
+    "id": "noun_922",
+    "en": "Lycanroc",
+    "fr": "Lougaroc"
+  },
+  {
+    "id": "noun_923",
+    "en": "Kartana",
+    "fr": "Katagami"
+  },
+  {
+    "id": "noun_924",
+    "en": "Foehammer",
+    "fr": "Martelrival"
+  },
+  {
+    "id": "noun_925",
+    "en": "Gastrodon",
+    "fr": "Tritosor"
+  },
+  {
+    "id": "noun_926",
+    "en": "Goldrush",
+    "fr": "Ruélor"
+  },
+  {
+    "id": "noun_927",
+    "en": "Vodka goes platinum",
+    "fr": "Platinum, la vodka à son summum"
+  },
+  {
+    "id": "noun_928",
+    "en": "Anticlimax",
+    "fr": "Jolitorax"
+  },
+  {
+    "id": "noun_929",
+    "en": "Wartortle",
+    "fr": "Carabaffe"
+  },
+  {
+    "id": "noun_930",
+    "en": "Semiautomatix",
+    "fr": "Cétaubofix"
+  },
+  {
+    "id": "noun_931",
+    "en": "Beartic",
+    "fr": "Polagriffe"
+  },
+  {
+    "id": "noun_932",
+    "en": "Pawniard",
+    "fr": "Scalpion"
+  },
+  {
+    "id": "noun_933",
+    "en": "Hackagift",
+    "fr": "Crackadeau"
+  },
+  {
+    "id": "noun_934",
+    "en": "Choléramorbus",
+    "fr": "Choléramorbus"
+  },
+  {
+    "id": "noun_935",
+    "en": "occlumency",
+    "fr": "occlumancie"
+  },
+  {
+    "id": "noun_936",
+    "en": "Anvillain",
+    "fr": "Enclumator"
+  },
+  {
+    "id": "noun_937",
+    "en": "Bewear",
+    "fr": "Chelours"
+  },
+  {
+    "id": "noun_938",
+    "en": "Huntsman",
+    "fr": "Fusache"
+  },
+  {
+    "id": "noun_939",
+    "en": "Gnarley",
+    "fr": "Dragorge"
+  },
+  {
+    "id": "noun_940",
+    "en": "All ported",
+    "fr": "Frais de port inclus"
+  },
+  {
+    "id": "noun_941",
+    "en": "Diglett",
+    "fr": "Taupiqueur"
+  },
+  {
+    "id": "noun_942",
+    "en": "Mawile",
+    "fr": "Mysdibule"
+  },
+  {
+    "id": "noun_943",
+    "en": "Sentret",
+    "fr": "Fouinette"
+  },
+  {
+    "id": "noun_944",
+    "en": "Budew",
+    "fr": "Rozbouton"
+  },
+  {
+    "id": "noun_945",
+    "en": "Brionne",
+    "fr": "Otarlette"
+  },
+  {
+    "id": "noun_946",
+    "en": "Perfidius",
+    "fr": "Suelburnus"
+  },
+  {
+    "id": "noun_947",
+    "en": "Ledyba",
+    "fr": "Coxy"
+  },
+  {
+    "id": "noun_948",
+    "en": "Dirt-Hurler",
+    "fr": "Empoussiiérator"
+  },
+  {
+    "id": "noun_949",
+    "en": "Ferrosthorn",
+    "fr": "Noacier"
+  },
+  {
+    "id": "noun_950",
+    "en": "Thievul",
+    "fr": "Roublenard"
+  },
+  {
+    "id": "noun_951",
+    "en": "Prongs",
+    "fr": "Cornedrue"
+  },
+  {
+    "id": "noun_952",
+    "en": "Deathstrand",
+    "fr": "Tissemort "
+  },
+  {
+    "id": "noun_953",
+    "en": "Trubbish",
+    "fr": "Miamiasme"
+  },
+  {
+    "id": "noun_954",
+    "en": "Axew",
+    "fr": "Coupenotte"
+  },
+  {
+    "id": "noun_955",
+    "en": "Tsareena",
+    "fr": "Sucreine"
+  },
+  {
+    "id": "noun_956",
+    "en": "Crismus Cactus",
+    "fr": "Julius Epinedecactus"
+  },
+  {
+    "id": "noun_957",
+    "en": "Magikarp",
+    "fr": "Magicarpe"
+  },
+  {
+    "id": "noun_958",
+    "en": "Florean Fortescue",
+    "fr": "Florian Fortarôme"
+  },
+  {
+    "id": "noun_959",
+    "en": "Foongus",
+    "fr": "Trompignon"
+  },
+  {
+    "id": "noun_960",
+    "en": "Frillish",
+    "fr": "Viskuse"
+  },
+  {
+    "id": "noun_961",
+    "en": "Suffix",
+    "fr": "Barométrix"
+  },
+  {
+    "id": "noun_962",
+    "en": "Yoofoh",
+    "fr": "noveuni"
+  },
+  {
+    "id": "noun_963",
+    "en": "Sinistea",
+    "fr": "Théffroi"
+  },
+  {
+    "id": "noun_964",
+    "en": "Bunkumhouse",
+    "fr": "Parc à fractions"
+  },
+  {
+    "id": "noun_965",
+    "en": "Taillow",
+    "fr": "Nirondelle"
+  },
+  {
+    "id": "noun_966",
+    "en": "Flareon",
+    "fr": "Pyroli"
+  },
+  {
+    "id": "noun_967",
+    "en": "Doublade",
+    "fr": "Dimoclès"
+  },
+  {
+    "id": "noun_968",
+    "en": "Justforkix",
+    "fr": "Goudurix"
+  },
+  {
+    "id": "noun_969",
+    "en": "Caius Eucaliptus",
+    "fr": "Caius Eucaliptus"
+  },
+  {
+    "id": "noun_970",
+    "en": "Gunbow",
+    "fr": "Arcaballe"
+  },
+  {
+    "id": "noun_971",
+    "en": "Rapidash",
+    "fr": "Galopa"
+  },
+  {
+    "id": "noun_972",
+    "en": "Sappheral",
+    "fr": "Saphéroce"
+  },
+  {
+    "id": "noun_973",
+    "en": "Dustox",
+    "fr": "Papinox"
+  },
+  {
+    "id": "noun_974",
+    "en": "Shuckle",
+    "fr": "Caratroc"
+  },
+  {
+    "id": "noun_975",
+    "en": "Shotgat",
+    "fr": "Chauve-Fusil"
+  },
+  {
+    "id": "noun_976",
+    "en": "Stantler",
+    "fr": "Cerfrousse"
+  },
+  {
+    "id": "noun_977",
+    "en": "Slaking",
+    "fr": "Monaflémit"
+  },
+  {
+    "id": "noun_978",
+    "en": "Gritpicker",
+    "fr": "Ramassmiet"
+  },
+  {
+    "id": "noun_979",
+    "en": "Stunfisk",
+    "fr": "Limonde"
+  },
+  {
+    "id": "noun_980",
+    "en": "howler",
+    "fr": "beuglante"
+  },
+  {
+    "id": "noun_981",
+    "en": "Decidueye",
+    "fr": "Archéduc"
+  },
+  {
+    "id": "noun_982",
+    "en": "Larry Butz",
+    "fr": "Paul Defès"
+  },
+  {
+    "id": "noun_983",
+    "en": "Gossip Land",
+    "fr": "Ragots à gogo"
+  },
+  {
+    "id": "noun_984",
+    "en": "Bellatrix Lestrange",
+    "fr": "Bellatrix Lestrange"
+  },
+  {
+    "id": "noun_985",
+    "en": "Turbonator",
+    "fr": "Boumata"
+  },
+  {
+    "id": "noun_986",
+    "en": "Woobat",
+    "fr": "Chovsourir"
+  },
+  {
+    "id": "noun_987",
+    "en": "Hookfire",
+    "fr": "Krochefeu"
+  },
+  {
+    "id": "noun_988",
+    "en": "Stoutland",
+    "fr": "Mastouffe"
+  },
+  {
+    "id": "noun_989",
+    "en": "Pancham",
+    "fr": "Pandespiègle"
+  },
+  {
+    "id": "noun_990",
+    "en": "Mystery",
+    "fr": "le Grimoire"
+  },
+  {
+    "id": "noun_991",
+    "en": "Excaliber",
+    "fr": "Excalibre"
+  },
+  {
+    "id": "noun_992",
+    "en": "Frostfire",
+    "fr": "Flambegel"
+  },
+  {
+    "id": "noun_993",
+    "en": "arithmancy",
+    "fr": "Arithmancie"
+  },
+  {
+    "id": "noun_994",
+    "en": "Chansey",
+    "fr": "Leveinard"
+  },
+  {
+    "id": "noun_995",
+    "en": "Mightyena",
+    "fr": "Grahyèna"
+  },
+  {
+    "id": "noun_996",
+    "en": "Eiscue",
+    "fr": "Bekaglaçon"
+  },
+  {
+    "id": "noun_997",
+    "en": "Whimsicott",
+    "fr": "Farfaduvet"
+  },
+  {
+    "id": "noun_998",
+    "en": "Landorus",
+    "fr": "Démétéros"
+  },
+  {
+    "id": "noun_999",
+    "en": "Harry Butz",
+    "fr": "Paulo"
+  },
+  {
+    "id": "noun_1000",
+    "en": "Sawsbuck",
+    "fr": "Haydaim"
+  },
+  {
+    "id": "noun_1001",
+    "en": "Cinccino",
+    "fr": "Pashmilla"
+  },
+  {
+    "id": "noun_1002",
+    "en": "Herendethelessen",
+    "fr": "Kerøsen"
+  },
+  {
+    "id": "noun_1003",
+    "en": "Zangoose",
+    "fr": "Mangriff"
+  },
+  {
+    "id": "noun_1004",
+    "en": "Odiuscømpärissen",
+    "fr": "Øbsen"
+  },
+  {
+    "id": "noun_1005",
+    "en": "Toxapex",
+    "fr": "Prédastérie"
+  },
+  {
+    "id": "noun_1006",
+    "en": "Odius Asparagus",
+    "fr": "Caligula Alavacomgetepus"
+  },
+  {
+    "id": "noun_1007",
+    "en": "Manectric",
+    "fr": "Élecsprint"
+  },
+  {
+    "id": "noun_1008",
+    "en": "Terrakion",
+    "fr": "Terrakium"
+  },
+  {
+    "id": "noun_1009",
+    "en": "Chesnaught",
+    "fr": "Blindépique"
+  },
+  {
+    "id": "noun_1010",
+    "en": "Gruffnut Thorston",
+    "fr": "Têtedur Thorston"
+  },
+  {
+    "id": "noun_1011",
+    "en": "Eccentric",
+    "fr": "Casseurdebric"
+  },
+  {
+    "id": "noun_1012",
+    "en": "Amaura",
+    "fr": "Amagara"
+  },
+  {
+    "id": "noun_1013",
+    "en": "Acoustix",
+    "fr": "Aventurépix"
+  },
+  {
+    "id": "noun_1014",
+    "en": "Encyclopaedicus Britannicus",
+    "fr": "Caius Roideprus"
+  },
+  {
+    "id": "noun_1015",
+    "en": "Accelgor",
+    "fr": "Limaspeed"
+  },
+  {
+    "id": "noun_1016",
+    "en": "Golett",
+    "fr": "Gringolem"
+  },
+  {
+    "id": "noun_1017",
+    "en": "Dragon pox",
+    "fr": "dragoncelle"
+  },
+  {
+    "id": "noun_1018",
+    "en": "Humplecrimp",
+    "fr": "Frisabosse"
+  },
+  {
+    "id": "noun_1019",
+    "en": "Purrrfect putt",
+    "fr": "Swing félin"
+  },
+  {
+    "id": "noun_1020",
+    "en": "Spider ball",
+    "fr": "Araignée ballon"
+  },
+  {
+    "id": "noun_1021",
+    "en": "Duskull",
+    "fr": "Skelénox"
+  },
+  {
+    "id": "noun_1022",
+    "en": "Oshawott",
+    "fr": "Moustillon"
+  },
+  {
+    "id": "noun_1023",
+    "en": "Gastly",
+    "fr": "Fantominus"
+  },
+  {
+    "id": "noun_1024",
+    "en": "Helga Hufflepuff",
+    "fr": "Helga Poufsouffle"
+  },
+  {
+    "id": "noun_1025",
+    "en": "Honedge",
+    "fr": "Monorpale"
+  },
+  {
+    "id": "noun_1026",
+    "en": "Electabuzz",
+    "fr": "Élektek"
+  },
+  {
+    "id": "noun_1027",
+    "en": "Winguli",
+    "fr": "Goélise"
+  },
+  {
+    "id": "noun_1028",
+    "en": "Trumbeak",
+    "fr": "Piclairon"
+  },
+  {
+    "id": "noun_1029",
+    "en": "Butterfree",
+    "fr": "Papilusion"
+  },
+  {
+    "id": "noun_1030",
+    "en": "Arctovish",
+    "fr": "Hydragla"
+  },
+  {
+    "id": "noun_1031",
+    "en": "Expelliarmus",
+    "fr": "Expelliarmus"
+  },
+  {
+    "id": "noun_1032",
+    "en": "Snotlout Jorgenson",
+    "fr": "Rustik Jorgenson"
+  },
+  {
+    "id": "noun_1033",
+    "en": "Ukrainian Ironbelly",
+    "fr": "Pansedefer ukrainien"
+  },
+  {
+    "id": "noun_1034",
+    "en": "Heracross",
+    "fr": "Scarhino"
+  },
+  {
+    "id": "noun_1035",
+    "en": "Varius Flavus",
+    "fr": "Gracchus Garovirus"
+  },
+  {
+    "id": "noun_1036",
+    "en": "Fletchinder",
+    "fr": "Braisillon"
+  },
+  {
+    "id": "noun_1037",
+    "en": "Wallmonger",
+    "fr": "La Muraille de Machines"
+  },
+  {
+    "id": "noun_1038",
+    "en": "Shockjaw",
+    "fr": "Électrochoc "
+  },
+  {
+    "id": "noun_1039",
+    "en": "Wurmple",
+    "fr": "Chenipotte"
+  },
+  {
+    "id": "noun_1040",
+    "en": "Uptotrix",
+    "fr": "Odalix"
+  },
+  {
+    "id": "noun_1041",
+    "en": "Palpitoad",
+    "fr": "Batracné"
+  },
+  {
+    "id": "noun_1042",
+    "en": "Fibrositus",
+    "fr": "Quelquilfus"
+  },
+  {
+    "id": "noun_1043",
+    "en": "Grimmsnarl",
+    "fr": "Angoliath"
+  },
+  {
+    "id": "noun_1044",
+    "en": "Caius Fatuous",
+    "fr": "Caius Obtus"
+  },
+  {
+    "id": "noun_1045",
+    "en": "Sizzlipede",
+    "fr": "Grifflepattes"
+  },
+  {
+    "id": "noun_1046",
+    "en": "Puffskein",
+    "fr": "Boursouf"
+  },
+  {
+    "id": "noun_1047",
+    "en": "gubraithian fire",
+    "fr": "feu de sempremais"
+  },
+  {
+    "id": "noun_1048",
+    "en": "Dogmatix",
+    "fr": "Idéfix"
+  },
+  {
+    "id": "noun_1049",
+    "en": "Everlasting Gobstopper",
+    "fr": "Chewing-gum qui ne perd jamais son goût"
+  },
+  {
+    "id": "noun_1050",
+    "en": "Zigzagoon",
+    "fr": "Zigzaton"
+  },
+  {
+    "id": "noun_1051",
+    "en": "Sal Manella",
+    "fr": "Sal Monello"
+  },
+  {
+    "id": "noun_1052",
+    "en": "Kangaskhan",
+    "fr": "Kangourex"
+  },
+  {
+    "id": "noun_1053",
+    "en": "Jolteon",
+    "fr": "Voltali"
+  },
+  {
+    "id": "noun_1054",
+    "en": "Gumshoos",
+    "fr": "Argouste"
+  },
+  {
+    "id": "noun_1055",
+    "en": "Toothless",
+    "fr": "Krokmou"
+  },
+  {
+    "id": "noun_1056",
+    "en": "Pupitar",
+    "fr": "Ymphect"
+  },
+  {
+    "id": "noun_1057",
+    "en": "Jigglypuff",
+    "fr": "Rondoudou"
+  },
+  {
+    "id": "noun_1058",
+    "en": "Mesprit",
+    "fr": "Créfollet"
+  },
+  {
+    "id": "noun_1059",
+    "en": "Avalugg",
+    "fr": "Séracrawl"
+  },
+  {
+    "id": "noun_1060",
+    "en": "Impedimenta",
+    "fr": "Bonemine"
+  },
+  {
+    "id": "noun_1061",
+    "en": "Julius Monotonus",
+    "fr": "Julius Humérus"
+  },
+  {
+    "id": "noun_1062",
+    "en": "Polteageist",
+    "fr": "Polthégeist"
+  },
+  {
+    "id": "noun_1063",
+    "en": "Elimentaler",
+    "fr": "Demmentaleur"
+  },
+  {
+    "id": "noun_1064",
+    "en": "Synergrace",
+    "fr": "Synergrace"
+  },
+  {
+    "id": "noun_1065",
+    "en": "Gliscor",
+    "fr": "Scorvol"
+  },
+  {
+    "id": "noun_1066",
+    "en": "Dungeon Eagle",
+    "fr": "Donjon Eagle"
+  },
+  {
+    "id": "noun_1067",
+    "en": "Overanxius",
+    "fr": "Lucius Fleurdelotus"
+  },
+  {
+    "id": "noun_1068",
+    "en": "Dragapult",
+    "fr": "Lanssorien"
+  },
+  {
+    "id": "noun_1069",
+    "en": "Druddigon",
+    "fr": "Drakkarmin"
+  },
+  {
+    "id": "noun_1070",
+    "en": "Snortax",
+    "fr": "Ronflex"
+  },
+  {
+    "id": "noun_1071",
+    "en": "Coldkiller X",
+    "fr": "Pludrum X"
+  },
+  {
+    "id": "noun_1072",
+    "en": "Caius Preposterus",
+    "fr": "Caius Saugrenus"
+  },
+  {
+    "id": "noun_1073",
+    "en": "Berserker Bewilderbeast",
+    "fr": "Parenvrilles"
+  },
+  {
+    "id": "noun_1074",
+    "en": "Tremensdelirius",
+    "fr": "Roméomontaigus"
+  },
+  {
+    "id": "noun_1075",
+    "en": "Dynamojo",
+    "fr": "Dynamagie"
+  },
+  {
+    "id": "noun_1076",
+    "en": "Burke",
+    "fr": "Beurk"
+  },
+  {
+    "id": "noun_1077",
+    "en": "Mienshao",
+    "fr": "Shaofouine"
+  },
+  {
+    "id": "noun_1078",
+    "en": "Numel",
+    "fr": "Chamallot"
+  },
+  {
+    "id": "noun_1079",
+    "en": "Gracchus Armisurplus",
+    "fr": "Gracchus Nenjetépus"
+  },
+  {
+    "id": "noun_1080",
+    "en": "Haxorus",
+    "fr": "Tranchodon"
+  },
+  {
+    "id": "noun_1081",
+    "en": "Samurott",
+    "fr": "Clamiral"
+  },
+  {
+    "id": "noun_1082",
+    "en": "Freeze Ray",
+    "fr": "Rayon Congélatueur"
+  },
+  {
+    "id": "noun_1083",
+    "en": "Buzzkill",
+    "fr": "Scie Sautueuse"
+  },
+  {
+    "id": "noun_1084",
+    "en": "Mistmenace",
+    "fr": "Brumenace"
+  },
+  {
+    "id": "noun_1085",
+    "en": "Hoodunnit",
+    "fr": "Kiwoàlàh"
+  },
+  {
+    "id": "noun_1086",
+    "en": "Vikavolt",
+    "fr": "Lucanon"
+  },
+  {
+    "id": "noun_1087",
+    "en": "pumpkin pasty",
+    "fr": "patacitrouille"
+  },
+  {
+    "id": "noun_1088",
+    "en": "Murderful",
+    "fr": "Patibules"
+  },
+  {
+    "id": "noun_1089",
+    "en": "Stormcutter",
+    "fr": "Foudroyant"
+  },
+  {
+    "id": "noun_1090",
+    "en": "Pumpkaboo",
+    "fr": "Pitrouille"
+  },
+  {
+    "id": "noun_1091",
+    "en": "Diggersby",
+    "fr": "Excavarenne"
+  },
+  {
+    "id": "noun_1092",
+    "en": "Vulnera Sanentur",
+    "fr": "Vulnera Sanentur"
+  },
+  {
+    "id": "noun_1093",
+    "en": "Klefki",
+    "fr": "Trousselin"
+  },
+  {
+    "id": "noun_1094",
+    "en": "Bloomsang",
+    "fr": "Chanteflore"
+  },
+  {
+    "id": "noun_1095",
+    "en": "sneakoscope",
+    "fr": "scrutoscope"
+  },
+  {
+    "id": "noun_1096",
+    "en": "Tangela",
+    "fr": "Saquedeneu"
+  },
+  {
+    "id": "noun_1097",
+    "en": "Eevee",
+    "fr": "Évoli"
+  },
+  {
+    "id": "noun_1098",
+    "en": "Cherrim",
+    "fr": "Ceriflor"
+  },
+  {
+    "id": "noun_1099",
+    "en": "Vulpix",
+    "fr": "Goupix"
+  },
+  {
+    "id": "noun_1100",
+    "en": "Chill out…",
+    "fr": "Garde la tête froide…"
+  },
+  {
+    "id": "noun_1101",
+    "en": "Peter Pettigrew",
+    "fr": "Peter Pettigrow"
+  },
+  {
+    "id": "noun_1102",
+    "en": "Boltbite",
+    "fr": "Morsécrou"
+  },
+  {
+    "id": "noun_1103",
+    "en": "Timbertoast",
+    "fr": "Rôtibois "
+  },
+  {
+    "id": "noun_1104",
+    "en": "Swampert",
+    "fr": "Laggron"
+  },
+  {
+    "id": "noun_1105",
+    "en": "Liligant",
+    "fr": "Fragilady"
+  },
+  {
+    "id": "noun_1106",
+    "en": "Gogglers",
+    "fr": "Mirettes"
+  },
+  {
+    "id": "noun_1107",
+    "en": "Death & Chocolates",
+    "fr": "Choco-mort"
+  },
+  {
+    "id": "noun_1108",
+    "en": "Cyndaquil",
+    "fr": "Héricendre"
+  },
+  {
+    "id": "noun_1109",
+    "en": "Greenkeep",
+    "fr": "Vertécaille"
+  },
+  {
+    "id": "noun_1110",
+    "en": "Grotto Gutter",
+    "fr": "Grottueur"
+  },
+  {
+    "id": "noun_1111",
+    "en": "Telly-telly bunkum box",
+    "fr": "Boîte à fadaises"
+  },
+  {
+    "id": "noun_1112",
+    "en": "Face Melter",
+    "fr": "Défiguratrice"
+  },
+  {
+    "id": "noun_1113",
+    "en": "Mykingdomforanos",
+    "fr": "Zebigbos"
+  },
+  {
+    "id": "noun_1114",
+    "en": "Cheshire cat",
+    "fr": "Grimaçon"
+  },
+  {
+    "id": "noun_1115",
+    "en": "Indeedee",
+    "fr": "Wimessir"
+  },
+  {
+    "id": "noun_1116",
+    "en": "Cryogonal",
+    "fr": "Hexagel"
+  },
+  {
+    "id": "noun_1117",
+    "en": "Rainbow drops",
+    "fr": "Dragées arc-en-ciel"
+  },
+  {
+    "id": "noun_1118",
+    "en": "Poliwrath",
+    "fr": "Tartard"
+  },
+  {
+    "id": "noun_1119",
+    "en": "Sliquifier",
+    "fr": "Sliquifieur"
+  },
+  {
+    "id": "noun_1120",
+    "en": "Shivertooth",
+    "fr": "Dendecie "
+  },
+  {
+    "id": "noun_1121",
+    "en": "golden snitch",
+    "fr": "vif d'or"
+  },
+  {
+    "id": "noun_1122",
+    "en": "Ninetales",
+    "fr": "Feunard"
+  },
+  {
+    "id": "noun_1123",
+    "en": "Vivillon",
+    "fr": "Prismillon"
+  },
+  {
+    "id": "noun_1124",
+    "en": "Salamence",
+    "fr": "Drattak"
+  },
+  {
+    "id": "noun_1125",
+    "en": "Fearsome Flamellion",
+    "fr": "La Redoutable Flammélite"
+  },
+  {
+    "id": "noun_1126",
+    "en": "Oculus Reparo",
+    "fr": "Oculus Reparo"
+  },
+  {
+    "id": "noun_1127",
+    "en": "Oranguru",
+    "fr": "Gouroutan"
+  },
+  {
+    "id": "noun_1128",
+    "en": "Galegrinder",
+    "fr": "Bourrask"
+  },
+  {
+    "id": "noun_1129",
+    "en": "Glameo",
+    "fr": "Chaglam"
+  },
+  {
+    "id": "noun_1130",
+    "en": "Diagon Alley",
+    "fr": "Le Chemin de Traverse"
+  },
+  {
+    "id": "noun_1131",
+    "en": "Bunnelby",
+    "fr": "Sapereau"
+  },
+  {
+    "id": "noun_1132",
+    "en": "Ralts",
+    "fr": "Tarsal"
+  },
+  {
+    "id": "noun_1133",
+    "en": "Gloomlurker",
+    "fr": "Glissabysse"
+  },
+  {
+    "id": "noun_1134",
+    "en": "Tyrantrum",
+    "fr": "Rexillius"
+  },
+  {
+    "id": "noun_1135",
+    "en": "Marcus Ginantonicus",
+    "fr": "Marcus Sacapus"
+  },
+  {
+    "id": "noun_1136",
+    "en": "Dottler",
+    "fr": "Coléodôme"
+  },
+  {
+    "id": "noun_1137",
+    "en": "Belchfast",
+    "fr": "Jaydo"
+  },
+  {
+    "id": "noun_1138",
+    "en": "Parfect",
+    "fr": "Par-fait"
+  },
+  {
+    "id": "noun_1139",
+    "en": "Bargemine",
+    "fr": "Carroussaille"
+  },
+  {
+    "id": "noun_1140",
+    "en": "Sand Wraith",
+    "fr": "Spectrosable "
+  },
+  {
+    "id": "noun_1141",
+    "en": "Prinplup",
+    "fr": "Prinplouf"
+  },
+  {
+    "id": "noun_1142",
+    "en": "Trorc",
+    "fr": "Trorc"
+  },
+  {
+    "id": "noun_1143",
+    "en": "Pignite",
+    "fr": "Grotichon"
+  },
+  {
+    "id": "noun_1144",
+    "en": "Bonecrusher's Conquest",
+    "fr": "La conquête de Brisecarcass"
+  },
+  {
+    "id": "noun_1145",
+    "en": "Cherubi",
+    "fr": "Ceribou"
+  },
+  {
+    "id": "noun_1146",
+    "en": "Ptenisnet",
+    "fr": "Courdeténis"
+  },
+  {
+    "id": "noun_1147",
+    "en": "Slowpoke",
+    "fr": "Ramoloss"
+  },
+  {
+    "id": "noun_1148",
+    "en": "Clefable",
+    "fr": "Mélodelfe"
+  },
+  {
+    "id": "noun_1149",
+    "en": "Gungeon",
+    "fr": "Gungeon"
+  },
+  {
+    "id": "noun_1150",
+    "en": "Hydrophobia",
+    "fr": "Eponine"
+  },
+  {
+    "id": "noun_1151",
+    "en": "Charmeleon",
+    "fr": "Reptincel"
+  },
+  {
+    "id": "noun_1152",
+    "en": "Drowzee",
+    "fr": "Soporifik"
+  },
+  {
+    "id": "noun_1153",
+    "en": "Pheromosa",
+    "fr": "Cancrelove"
+  },
+  {
+    "id": "noun_1154",
+    "en": "Gorgun",
+    "fr": "La Gorgun"
+  },
+  {
+    "id": "noun_1155",
+    "en": "Elimentaler",
+    "fr": "Fromager"
+  },
+  {
+    "id": "noun_1156",
+    "en": "Gobblefunk",
+    "fr": "Blablatifoler"
+  },
+  {
+    "id": "noun_1157",
+    "en": "Dijester",
+    "fr": "Dizaistif"
+  },
+  {
+    "id": "noun_1158",
+    "en": "Chantecleerix",
+    "fr": "Chanteclairix"
+  },
+  {
+    "id": "noun_1159",
+    "en": "Gasleak",
+    "fr": "Fwit Degaz"
+  },
+  {
+    "id": "noun_1160",
+    "en": "Water of discontent",
+    "fr": "Batailles d'eau"
+  },
+  {
+    "id": "noun_1161",
+    "en": "Kingler",
+    "fr": "Krabboss"
+  }
+]
