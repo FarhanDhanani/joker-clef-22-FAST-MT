@@ -157,7 +157,7 @@ Output example:
 ### TASK-1: SOLVE VIA COMBINATION OF TOKEN-CLASSIFICATION, TEXT CLASSIFICATION AND TEXT GENERATION
  1) [BERT-BASE](https://huggingface.co/bert-base-cased) for token classification and predicting the words forming the wordplay.
  2) [KEY-BERT](https://maartengr.github.io/KeyBERT/) for token classification and predicting the words forming the wordplay.
- 3) Distil-BERT(https://huggingface.co/distilbert-base-uncased) for text classification and predicting categorical values mentioned in the task-1
+ 3) [Distil-BERT](https://huggingface.co/distilbert-base-uncased) for text classification and predicting categorical values mentioned in the task-1
  4) GPT-X for generating interpretation
 
 ### TASK-2: SOLVE BY MAPPING THE PROBLEM TO QUESTION ANSWERING DOMAIN
