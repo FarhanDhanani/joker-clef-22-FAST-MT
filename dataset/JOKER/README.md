@@ -1,0 +1,1 @@
+Due to large file sizes, we have not uploaded the contents of actual TMX files downloaded from the [OPUS open sourcee parallel corpus (en-fr)](https://opus.nlpl.eu/). However, the user can download the mentioned corpora from OPUS (en-fr)](https://opus.nlpl.eu/) by themself.
