@@ -152,20 +152,20 @@ Output example:
     [{"RUN_ID":"JCM","MANUAL":1,"id":"pun_724_1","en":"My name is Wade and I'm in swimming pool maintenance.","fr":" Je m\u2019appelle Jacques Ouzy, je m\u2019occupe de l\u2019entretien des piscines."}]
 
 
-## Just to preset a quick overview, we have utilized the following transformer models to complete the three tasks provided in the JOKER CLEF workshop.
+## Just to preset a quick overview, we have utilized the following Transformer models to complete the three tasks provided in the JOKER CLEF workshop.
 
 ### TASK-1: SOLVE VIA COMBINATION OF TOKEN-CLASSIFICATION, TEXT CLASSIFICATION AND TEXT GENERATION
- 1) BERT-BASE for token classification and predicting the words forming the wordplay.
- 2) KEY-BERT for token classification and predicting the words forming the wordplay.
- 3) Distil-BERT for text classification and predicting categorical values mentioned in the task-1
+ 1) [BERT-BASE](https://huggingface.co/bert-base-cased) for token classification and predicting the words forming the wordplay.
+ 2) [KEY-BERT](https://maartengr.github.io/KeyBERT/) for token classification and predicting the words forming the wordplay.
+ 3) Distil-BERT(https://huggingface.co/distilbert-base-uncased) for text classification and predicting categorical values mentioned in the task-1
  4) GPT-X for generating interpretation
 
 ### TASK-2: SOLVE BY MAPPING THE PROBLEM TO QUESTION ANSWERING DOMAIN
- 1) CamemBERT for extractive question answering to predict french translation of popular English nouns from movies.
- 2) DistilBERT for extractive question answering to predict french translation of popular English nouns from movies.
+ 1) [CamemBERT](https://huggingface.co/etalab-ia/camembert-base-squadFR-fquad-piaf) for extractive question answering to predict french translation of popular English nouns from movies.
+ 2) [DistilBERT](https://huggingface.co/distilbert-base-cased-distilled-squad) for extractive question answering to predict french translation of popular English nouns from movies.
 
 ### TASK-3 SOLVE VIA SEQUENCE TO SEQUENCE LEARNING APPROACHES
- 1) HELSINKI-NLP/opus-mt-en-fr for sequence to sequence translation of English text to French.
- 2)  GOOGLE T5 small for sequence to sequence translation of English text to French.
- 3)  GOOGLE T5 base for sequence to sequence translation of English text to French4
- 4)  GOOGLE T5 large for sequence to sequence translation of English text to French.
+ 1)  [HELSINKI-NLP/opus-mt-en-fr](https://huggingface.co/Helsinki-NLP/opus-mt-en-fr) for sequence to sequence translation of English text to French.
+ 2)  [GOOGLE T5 small](https://huggingface.co/t5-small/tree/main) for sequence to sequence translation of English text to French.
+ 3)  [GOOGLE T5 base](https://huggingface.co/t5-base) for sequence to sequence translation of English text to French4
+ 4)  [GOOGLE T5 large](https://huggingface.co/t5-large) for sequence to sequence translation of English text to French.
