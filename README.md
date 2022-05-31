@@ -113,5 +113,43 @@ List of wordplay instances to be translated in a JSON format or a CSV file (for 
 Output example:List of wordplay instances to be translated in a JSON format or a CSV file (for manual runs) with the following fields:
 
     [{"RUN_ID":"OFFICIAL","MANUAL":1,"id":"noun_1","en":"Ambipom","fr":"Capidextre"}]
+    
+    
+# **TASK 3: TRANSLATE ENTIRE PHRASES CONTAINING WORDPLAY.**
+
+Train data format: List of translated wordplay instances in a JSON format or a CSV file (for manual runs) with the following fields:
+
+    id: a unique wordplay identifier
+    en: wordplay text in English (source)
+    fr: wordplay text in French (target)
+
+Example:
+
+    [{"id":"pun_724_1","en":"My name is Wade and I'm in swimming pool maintenance.","fr":" Je m\u2019appelle Jacques Ouzy, je m\u2019occupe de l\u2019entretien des piscines."}]
+
+Test data input format: List of wordplay instances to translate in a JSON format or a CSV file (for manual runs) with the following fields:
+
+    id: a unique wordplay identifier
+    en: wordplay text in English (source)
+
+Input example:
+
+    [{"id":"het_713","en":"Ever since my mineral extraction facility was converted to parking, I've had a lot on my mine."}]
+
+
+Test data output format:
+
+List of wordplay instances to be translated in a JSON format or a CSV file (for manual runs) with the following fields:
+
+    RUN_ID: Run ID starting with team_id_ (as registered at the CLEF website)
+    MANUAL: Whether the run is manual {0,1}
+    id: a unique wordplay identifier
+    en: wordplay text in English (source)
+    fr: wordplay text in French (target)
+
+Output example:
+
+    [{"RUN_ID":"JCM","MANUAL":1,"id":"pun_724_1","en":"My name is Wade and I'm in swimming pool maintenance.","fr":" Je m\u2019appelle Jacques Ouzy, je m\u2019occupe de l\u2019entretien des piscines."}]
+
 
 
