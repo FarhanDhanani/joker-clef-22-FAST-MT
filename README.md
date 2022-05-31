@@ -152,7 +152,7 @@ Output example:
     [{"RUN_ID":"JCM","MANUAL":1,"id":"pun_724_1","en":"My name is Wade and I'm in swimming pool maintenance.","fr":" Je m\u2019appelle Jacques Ouzy, je m\u2019occupe de l\u2019entretien des piscines."}]
 
 
-## Just to preset a quick overview, we have utilized the following Transformer models to complete the three tasks provided in the JOKER CLEF workshop.
+# **QUICK OVERVIEW OF THE TRANSFORMER MODELS USED TO SOLVE THE TASKS OF JOKER CLEF-22 WORKSHOP**
 
 ### TASK-1: SOLVE VIA COMBINATION OF TOKEN-CLASSIFICATION, TEXT CLASSIFICATION AND TEXT GENERATION
  1) [BERT-BASE](https://huggingface.co/bert-base-cased) for token classification and predicting the words forming the wordplay.
