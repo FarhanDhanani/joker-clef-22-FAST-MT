@@ -1,0 +1,1 @@
+This is just a marker folder created to hold the training and validation record after the random split.
