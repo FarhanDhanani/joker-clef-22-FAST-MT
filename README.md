@@ -77,6 +77,41 @@ Output example:
     [{"RUN_ID":"RT","MANUAL":1,"ID":"noun_1063","WORDPLAY":"Elimentaler","TARGET_WORD":"Elimentaler","DISAMBIGUATION":"Emmental (cheese) + Eliminator","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null},{"RUN_ID":"RT","MANUAL":1,"ID":"pun_341","WORDPLAY":"Geologists can be sedimental about their work.","TARGET_WORD":"sedimental","DISAMBIGUATION":"sentimental\/sediment","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null}]
 
 
-**Evaluation**. Pilot Task 1 includes both classification and interpretation components. Classification performance will be evaluated with respect to accuracy, while interpretation performance will be evaluated semi-manually.
 
-**Result submission**. Participants should put their run results into the folder Documents created for their user and submit them by email to contact@joker-project.com. The email subject has to be in the format [CLEF TASK 1] TEAM_ID.
+
+# **TASK 2: TRANSLATE SINGLE WORDS (NOUNS) CONTAINING WORDPLAY.**
+
+Train data format: List of translated wordplay instances in a JSON format or a CSV file (for manual runs) with the following fields:
+
+    id: a unique wordplay identifier
+    en: wordplay text in English (source)
+    fr: wordplay text in French (target)
+
+Example:
+
+    [{"id":"noun_1","en":"Ambipom","fr":"Capidextre"}]
+
+Test data input format: List of wordplay instances to translate in a JSON format or a CSV file (for manual runs) with the following fields:
+
+    id: a unique wordplay identifier
+    en: wordplay text in English (source)
+
+Input example:
+
+    [{"id":"noun_1185","en":"Fungun"}]
+
+Test data output format:
+
+List of wordplay instances to be translated in a JSON format or a CSV file (for manual runs) with the following fields:
+
+    RUN_ID: Run ID starting with team_id_ (as registered at the CLEF website)
+    MANUAL: Whether the run is manual {0,1}
+    id: a unique wordplay identifier
+    en: wordplay text in English (source)
+    fr: wordplay text in French (target)
+
+Output example:List of wordplay instances to be translated in a JSON format or a CSV file (for manual runs) with the following fields:
+
+    [{"RUN_ID":"OFFICIAL","MANUAL":1,"id":"noun_1","en":"Ambipom","fr":"Capidextre"}]
+
+
