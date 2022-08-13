@@ -170,3 +170,14 @@ Output example:
  2)  [GOOGLE T5 small](https://huggingface.co/t5-small/tree/main) for sequence to sequence translation of English text to French.
  3)  [GOOGLE T5 base](https://huggingface.co/t5-base) for sequence to sequence translation of English text to French4
  4)  [GOOGLE T5 large](https://huggingface.co/t5-large) for sequence to sequence translation of English text to French.
+
+
+# **CITE**
+
+@inproceedings{DhananiEtAl:CLEF2022,
+title = {FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks},
+author = {Farhan Dhanani and Muhammad Rafi and Muhammad Atif Tahir},
+pages = {1756--1773},
+url = {http://ceur-ws.org/Vol-3180/#paper-136},
+crossref = {CLEF2022},
+}
